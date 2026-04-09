@@ -1,0 +1,3001 @@
+patient_id,symptoms,drug_prescribed,date
+1,muscle pain swelling,Ibuprofen,2024-01-15
+2,chest infection cough fever,Azithromycin,2023-04-25
+3,allergy sneezing itching,Cetirizine,2023-12-13
+4,high cholesterol risk,Atorvastatin,2023-10-30
+5,acid reflux stomach burn,Pantoprazole,2023-01-16
+6,joint pain inflammation,Ibuprofen,2023-04-30
+7,lipid disorder treatment,Atorvastatin,2023-01-14
+8,high cholesterol risk,Atorvastatin,2024-01-02
+9,cholesterol management,Atorvastatin,2023-04-23
+10,diabetes frequent urination,Metformin,2023-05-23
+11,fever body pain,Paracetamol,2023-12-24
+12,gastritis stomach pain,Pantoprazole,2023-05-23
+13,runny nose allergy,Cetirizine,2024-05-05
+14,dehydration diarrhea,ORS,2023-02-17
+15,acid reflux stomach burn,Pantoprazole,2023-07-03
+16,loose motion dehydration,ORS,2023-05-16
+17,cough fever headache,Paracetamol,2023-10-02
+18,injury swelling pain,Ibuprofen,2023-02-10
+19,cholesterol management,Atorvastatin,2024-02-29
+20,flu fever headache,Dolo650,2023-10-23
+21,sinus infection pressure pain,Amoxicillin,2023-02-05
+22,fever body pain,Paracetamol,2024-01-31
+23,chest infection cough fever,Azithromycin,2024-03-13
+24,bacterial infection throat pain,Amoxicillin,2023-07-14
+25,severe throat infection,Azithromycin,2023-11-22
+26,dehydration diarrhea,ORS,2023-07-09
+27,dehydration diarrhea,ORS,2023-12-10
+28,respiratory infection cough,Azithromycin,2024-04-24
+29,joint pain inflammation,Ibuprofen,2023-10-01
+30,bacterial infection throat pain,Amoxicillin,2023-08-25
+31,gastritis stomach pain,Pantoprazole,2024-04-18
+32,high cholesterol risk,Atorvastatin,2023-12-17
+33,dehydration diarrhea,ORS,2023-04-28
+34,mild fever headache,Paracetamol,2023-07-25
+35,chest infection cough fever,Azithromycin,2023-04-19
+36,viral fever body pain,Dolo650,2023-06-11
+37,sinus infection pressure pain,Amoxicillin,2023-09-13
+38,acidic stomach discomfort,Pantoprazole,2023-08-23
+39,sneezing watery eyes,Cetirizine,2023-03-13
+40,sinus infection pressure pain,Amoxicillin,2023-10-15
+41,cholesterol management,Atorvastatin,2024-01-18
+42,flu fever headache,Dolo650,2024-04-04
+43,flu fever headache,Dolo650,2023-07-05
+44,bacterial infection throat pain,Amoxicillin,2023-09-18
+45,high blood sugar fatigue,Metformin,2024-01-22
+46,fever headache,Paracetamol,2023-03-20
+47,allergic rash itching,Cetirizine,2023-11-02
+48,injury swelling pain,Ibuprofen,2023-07-15
+49,flu fever headache,Dolo650,2023-09-28
+50,respiratory infection cough,Azithromycin,2024-03-16
+51,fever headache,Paracetamol,2023-12-16
+52,cholesterol management,Atorvastatin,2024-01-29
+53,dehydration diarrhea,ORS,2023-05-31
+54,acid reflux stomach burn,Pantoprazole,2023-08-21
+55,mild fever headache,Paracetamol,2024-05-12
+56,high cholesterol risk,Atorvastatin,2023-09-17
+57,back pain muscle pain,Ibuprofen,2024-03-06
+58,lipid disorder treatment,Atorvastatin,2023-04-12
+59,sneezing watery eyes,Cetirizine,2024-01-26
+60,allergy sneezing itching,Cetirizine,2023-11-03
+61,vomiting dehydration weakness,ORS,2023-01-10
+62,back pain muscle pain,Ibuprofen,2024-03-25
+63,chest infection cough fever,Azithromycin,2023-01-30
+64,sinus infection pressure pain,Amoxicillin,2024-04-29
+65,muscle pain swelling,Ibuprofen,2024-01-10
+66,high blood sugar fatigue,Metformin,2024-05-15
+67,high cholesterol risk,Atorvastatin,2023-03-07
+68,diabetes frequent urination,Metformin,2023-03-26
+69,respiratory infection cough,Azithromycin,2024-03-22
+70,flu fever headache,Dolo650,2024-05-08
+71,sinus infection pressure pain,Amoxicillin,2024-01-22
+72,sinus infection pressure pain,Amoxicillin,2023-06-09
+73,acidic stomach discomfort,Pantoprazole,2023-11-29
+74,vomiting dehydration weakness,ORS,2024-04-05
+75,cholesterol management,Atorvastatin,2023-03-03
+76,bacterial infection throat pain,Amoxicillin,2023-02-02
+77,dehydration diarrhea,ORS,2023-10-29
+78,high cholesterol risk,Atorvastatin,2023-10-29
+79,bacterial infection throat pain,Amoxicillin,2023-02-06
+80,fever body pain,Paracetamol,2023-02-04
+81,mild fever headache,Paracetamol,2023-02-06
+82,high cholesterol risk,Atorvastatin,2023-05-23
+83,high blood sugar fatigue,Metformin,2023-10-04
+84,allergic rash itching,Cetirizine,2023-05-05
+85,type2 diabetes high sugar,Metformin,2023-04-08
+86,muscle pain swelling,Ibuprofen,2023-12-04
+87,gastritis stomach pain,Pantoprazole,2023-08-05
+88,gastritis stomach pain,Pantoprazole,2024-03-18
+89,fever headache,Paracetamol,2023-02-01
+90,acidic stomach discomfort,Pantoprazole,2023-06-23
+91,joint pain inflammation,Ibuprofen,2023-04-09
+92,sinus infection pressure pain,Amoxicillin,2023-08-18
+93,allergic rash itching,Cetirizine,2023-04-04
+94,severe throat infection,Azithromycin,2023-05-08
+95,injury swelling pain,Ibuprofen,2024-02-18
+96,high cholesterol risk,Atorvastatin,2023-01-26
+97,high cholesterol risk,Atorvastatin,2024-05-11
+98,joint pain inflammation,Ibuprofen,2023-03-27
+99,gastritis stomach pain,Pantoprazole,2023-09-04
+100,ear infection pain fever,Amoxicillin,2024-04-07
+101,fever body pain,Paracetamol,2023-07-14
+102,cough fever headache,Paracetamol,2023-05-16
+103,type2 diabetes high sugar,Metformin,2023-08-05
+104,lipid disorder treatment,Atorvastatin,2024-01-03
+105,high blood sugar fatigue,Metformin,2023-04-08
+106,chest infection cough fever,Azithromycin,2024-05-10
+107,viral fever,Paracetamol,2024-01-12
+108,high cholesterol risk,Atorvastatin,2024-01-18
+109,dehydration diarrhea,ORS,2023-01-26
+110,flu fever headache,Dolo650,2023-09-15
+111,high cholesterol risk,Atorvastatin,2023-01-30
+112,high cholesterol risk,Atorvastatin,2024-03-11
+113,allergy sneezing itching,Cetirizine,2023-11-01
+114,joint pain inflammation,Ibuprofen,2023-07-26
+115,joint pain inflammation,Ibuprofen,2023-10-24
+116,high fever body pain,Dolo650,2023-11-14
+117,injury swelling pain,Ibuprofen,2023-12-03
+118,viral fever body pain,Dolo650,2023-09-25
+119,vomiting dehydration weakness,ORS,2023-04-15
+120,dehydration diarrhea,ORS,2023-05-16
+121,acid reflux stomach burn,Pantoprazole,2023-12-10
+122,severe throat infection,Azithromycin,2023-06-11
+123,muscle pain swelling,Ibuprofen,2023-08-23
+124,viral fever body pain,Dolo650,2023-02-21
+125,joint pain inflammation,Ibuprofen,2023-09-17
+126,chest infection cough fever,Azithromycin,2024-04-22
+127,dehydration diarrhea,ORS,2024-03-26
+128,ear infection pain fever,Amoxicillin,2023-05-26
+129,allergic rash itching,Cetirizine,2024-03-02
+130,lipid disorder treatment,Atorvastatin,2023-06-04
+131,viral fever body pain,Dolo650,2023-09-28
+132,viral fever,Paracetamol,2023-06-03
+133,joint pain inflammation,Ibuprofen,2023-05-16
+134,muscle pain swelling,Ibuprofen,2024-01-16
+135,high cholesterol risk,Atorvastatin,2023-05-20
+136,respiratory infection cough,Azithromycin,2023-04-18
+137,dehydration diarrhea,ORS,2023-12-18
+138,respiratory infection cough,Azithromycin,2023-09-08
+139,chest infection cough fever,Azithromycin,2023-02-17
+140,gastritis stomach pain,Pantoprazole,2023-01-23
+141,mild fever headache,Paracetamol,2024-01-30
+142,sneezing watery eyes,Cetirizine,2023-03-24
+143,diabetes frequent urination,Metformin,2023-12-28
+144,acidic stomach discomfort,Pantoprazole,2023-01-05
+145,muscle pain swelling,Ibuprofen,2024-04-28
+146,allergy sneezing itching,Cetirizine,2024-03-03
+147,loose motion dehydration,ORS,2023-10-10
+148,allergic rash itching,Cetirizine,2023-03-07
+149,mild fever headache,Paracetamol,2023-07-06
+150,mild fever headache,Paracetamol,2023-04-18
+151,sinus infection pressure pain,Amoxicillin,2023-02-22
+152,loose motion dehydration,ORS,2024-03-28
+153,acidic stomach discomfort,Pantoprazole,2024-01-19
+154,runny nose allergy,Cetirizine,2024-03-18
+155,runny nose allergy,Cetirizine,2024-03-27
+156,acid reflux stomach burn,Pantoprazole,2023-04-02
+157,vomiting dehydration weakness,ORS,2024-02-15
+158,ear infection pain fever,Amoxicillin,2023-03-23
+159,injury swelling pain,Ibuprofen,2024-03-22
+160,cough fever headache,Paracetamol,2023-04-24
+161,ear infection pain fever,Amoxicillin,2023-06-29
+162,chest infection cough fever,Azithromycin,2023-04-25
+163,fever body pain,Paracetamol,2023-07-24
+164,vomiting dehydration weakness,ORS,2024-03-18
+165,back pain muscle pain,Ibuprofen,2023-06-29
+166,cholesterol management,Atorvastatin,2023-12-14
+167,cholesterol management,Atorvastatin,2024-04-25
+168,fever headache,Paracetamol,2024-03-25
+169,chest infection cough fever,Azithromycin,2023-10-25
+170,chest infection cough fever,Azithromycin,2023-02-25
+171,flu fever headache,Dolo650,2023-06-26
+172,vomiting dehydration weakness,ORS,2023-11-07
+173,high cholesterol risk,Atorvastatin,2023-07-17
+174,high fever body pain,Dolo650,2023-05-11
+175,cough fever headache,Paracetamol,2023-01-01
+176,lipid disorder treatment,Atorvastatin,2023-12-18
+177,ear infection pain fever,Amoxicillin,2023-08-09
+178,back pain muscle pain,Ibuprofen,2023-11-16
+179,loose motion dehydration,ORS,2024-03-10
+180,back pain muscle pain,Ibuprofen,2023-09-17
+181,respiratory infection cough,Azithromycin,2023-07-29
+182,vomiting dehydration weakness,ORS,2023-12-23
+183,respiratory infection cough,Azithromycin,2023-03-07
+184,ear infection pain fever,Amoxicillin,2023-12-07
+185,acidic stomach discomfort,Pantoprazole,2024-01-19
+186,sneezing watery eyes,Cetirizine,2023-07-27
+187,high cholesterol risk,Atorvastatin,2023-06-05
+188,chest infection cough fever,Azithromycin,2023-08-09
+189,viral fever body pain,Dolo650,2023-12-02
+190,vomiting dehydration weakness,ORS,2023-08-15
+191,diabetes frequent urination,Metformin,2023-04-20
+192,cholesterol management,Atorvastatin,2024-02-11
+193,allergy sneezing itching,Cetirizine,2023-05-26
+194,lipid disorder treatment,Atorvastatin,2023-11-21
+195,flu fever headache,Dolo650,2023-02-17
+196,sinus infection pressure pain,Amoxicillin,2023-06-08
+197,bacterial infection throat pain,Amoxicillin,2023-03-17
+198,fever headache,Paracetamol,2023-05-06
+199,diabetes frequent urination,Metformin,2024-03-11
+200,injury swelling pain,Ibuprofen,2023-08-01
+201,high fever body pain,Dolo650,2024-01-03
+202,gastritis stomach pain,Pantoprazole,2023-07-24
+203,bacterial infection throat pain,Amoxicillin,2023-12-02
+204,fever headache,Paracetamol,2024-02-03
+205,acid reflux stomach burn,Pantoprazole,2023-04-01
+206,cholesterol management,Atorvastatin,2023-01-26
+207,high cholesterol risk,Atorvastatin,2024-04-14
+208,injury swelling pain,Ibuprofen,2023-03-10
+209,diabetes frequent urination,Metformin,2023-09-29
+210,lipid disorder treatment,Atorvastatin,2023-06-12
+211,diabetes frequent urination,Metformin,2024-02-22
+212,cholesterol management,Atorvastatin,2024-03-01
+213,cholesterol management,Atorvastatin,2024-04-04
+214,allergic rash itching,Cetirizine,2023-08-19
+215,chest infection cough fever,Azithromycin,2024-03-06
+216,respiratory infection cough,Azithromycin,2023-09-06
+217,ear infection pain fever,Amoxicillin,2023-08-14
+218,back pain muscle pain,Ibuprofen,2023-05-01
+219,severe throat infection,Azithromycin,2023-06-13
+220,high cholesterol risk,Atorvastatin,2023-03-12
+221,runny nose allergy,Cetirizine,2023-07-16
+222,runny nose allergy,Cetirizine,2023-02-02
+223,gastritis stomach pain,Pantoprazole,2023-06-19
+224,cholesterol management,Atorvastatin,2023-08-01
+225,fever body pain,Paracetamol,2024-03-02
+226,gastritis stomach pain,Pantoprazole,2024-04-08
+227,viral fever body pain,Dolo650,2023-01-11
+228,flu fever headache,Dolo650,2023-09-02
+229,mild fever headache,Paracetamol,2023-06-02
+230,gastritis stomach pain,Pantoprazole,2023-10-03
+231,lipid disorder treatment,Atorvastatin,2024-04-04
+232,ear infection pain fever,Amoxicillin,2023-04-23
+233,severe throat infection,Azithromycin,2023-09-06
+234,cough fever headache,Paracetamol,2023-06-22
+235,acidic stomach discomfort,Pantoprazole,2023-03-26
+236,high blood sugar fatigue,Metformin,2023-11-15
+237,high cholesterol risk,Atorvastatin,2024-04-09
+238,acidic stomach discomfort,Pantoprazole,2023-10-16
+239,fever headache,Paracetamol,2023-11-26
+240,acid reflux stomach burn,Pantoprazole,2024-03-19
+241,high blood sugar fatigue,Metformin,2023-01-26
+242,severe throat infection,Azithromycin,2023-06-17
+243,ear infection pain fever,Amoxicillin,2023-06-17
+244,vomiting dehydration weakness,ORS,2023-05-23
+245,gastritis stomach pain,Pantoprazole,2024-03-03
+246,injury swelling pain,Ibuprofen,2023-01-10
+247,high cholesterol risk,Atorvastatin,2024-05-02
+248,dehydration diarrhea,ORS,2023-11-29
+249,muscle pain swelling,Ibuprofen,2024-01-22
+250,fever body pain,Paracetamol,2023-04-13
+251,viral fever,Paracetamol,2023-03-20
+252,bacterial infection throat pain,Amoxicillin,2023-08-31
+253,joint pain inflammation,Ibuprofen,2023-08-27
+254,severe throat infection,Azithromycin,2023-03-27
+255,viral fever body pain,Dolo650,2024-05-08
+256,joint pain inflammation,Ibuprofen,2024-05-08
+257,chest infection cough fever,Azithromycin,2023-10-24
+258,mild fever headache,Paracetamol,2023-10-22
+259,gastritis stomach pain,Pantoprazole,2024-04-27
+260,bacterial infection throat pain,Amoxicillin,2023-10-31
+261,bacterial infection throat pain,Amoxicillin,2023-12-23
+262,respiratory infection cough,Azithromycin,2023-11-04
+263,muscle pain swelling,Ibuprofen,2023-06-27
+264,cholesterol management,Atorvastatin,2023-12-05
+265,dehydration diarrhea,ORS,2023-09-17
+266,dehydration diarrhea,ORS,2024-03-10
+267,gastritis stomach pain,Pantoprazole,2023-02-24
+268,gastritis stomach pain,Pantoprazole,2023-11-22
+269,diabetes frequent urination,Metformin,2023-03-20
+270,acid reflux stomach burn,Pantoprazole,2024-01-11
+271,lipid disorder treatment,Atorvastatin,2023-05-19
+272,viral fever body pain,Dolo650,2024-02-01
+273,type2 diabetes high sugar,Metformin,2023-08-12
+274,flu fever headache,Dolo650,2023-06-15
+275,bacterial infection throat pain,Amoxicillin,2023-05-23
+276,high blood sugar fatigue,Metformin,2024-01-20
+277,diabetes frequent urination,Metformin,2023-11-09
+278,gastritis stomach pain,Pantoprazole,2023-01-15
+279,type2 diabetes high sugar,Metformin,2023-04-04
+280,high blood sugar fatigue,Metformin,2023-07-01
+281,severe throat infection,Azithromycin,2023-05-24
+282,viral fever body pain,Dolo650,2024-03-26
+283,respiratory infection cough,Azithromycin,2023-01-06
+284,high cholesterol risk,Atorvastatin,2023-02-13
+285,sinus infection pressure pain,Amoxicillin,2023-07-28
+286,diabetes frequent urination,Metformin,2024-01-24
+287,sinus infection pressure pain,Amoxicillin,2023-09-01
+288,type2 diabetes high sugar,Metformin,2024-02-10
+289,fever headache,Paracetamol,2023-05-31
+290,ear infection pain fever,Amoxicillin,2023-12-21
+291,ear infection pain fever,Amoxicillin,2023-12-06
+292,flu fever headache,Dolo650,2023-08-31
+293,lipid disorder treatment,Atorvastatin,2023-06-26
+294,acidic stomach discomfort,Pantoprazole,2023-10-09
+295,vomiting dehydration weakness,ORS,2023-12-26
+296,type2 diabetes high sugar,Metformin,2023-06-06
+297,chest infection cough fever,Azithromycin,2023-03-03
+298,ear infection pain fever,Amoxicillin,2023-03-03
+299,lipid disorder treatment,Atorvastatin,2023-04-05
+300,bacterial infection throat pain,Amoxicillin,2024-01-14
+301,type2 diabetes high sugar,Metformin,2024-01-06
+302,viral fever body pain,Dolo650,2023-11-02
+303,chest infection cough fever,Azithromycin,2024-03-02
+304,ear infection pain fever,Amoxicillin,2023-04-27
+305,dehydration diarrhea,ORS,2023-06-04
+306,viral fever,Paracetamol,2023-03-06
+307,chest infection cough fever,Azithromycin,2024-05-13
+308,viral fever,Paracetamol,2023-05-30
+309,allergic rash itching,Cetirizine,2023-02-22
+310,viral fever,Paracetamol,2023-05-26
+311,type2 diabetes high sugar,Metformin,2023-08-14
+312,dehydration diarrhea,ORS,2024-05-09
+313,mild fever headache,Paracetamol,2024-04-26
+314,high blood sugar fatigue,Metformin,2024-02-25
+315,injury swelling pain,Ibuprofen,2023-09-09
+316,muscle pain swelling,Ibuprofen,2023-03-19
+317,sneezing watery eyes,Cetirizine,2023-02-13
+318,bacterial infection throat pain,Amoxicillin,2023-10-13
+319,acidic stomach discomfort,Pantoprazole,2023-11-02
+320,high fever body pain,Dolo650,2024-02-02
+321,cholesterol management,Atorvastatin,2023-08-19
+322,type2 diabetes high sugar,Metformin,2024-03-16
+323,flu fever headache,Dolo650,2023-06-06
+324,viral fever body pain,Dolo650,2023-01-31
+325,viral fever body pain,Dolo650,2023-02-20
+326,sinus infection pressure pain,Amoxicillin,2023-04-19
+327,respiratory infection cough,Azithromycin,2023-02-11
+328,runny nose allergy,Cetirizine,2023-03-30
+329,high cholesterol risk,Atorvastatin,2023-03-22
+330,cough fever headache,Paracetamol,2023-08-19
+331,flu fever headache,Dolo650,2023-05-30
+332,fever body pain,Paracetamol,2023-05-28
+333,respiratory infection cough,Azithromycin,2024-03-16
+334,high blood sugar fatigue,Metformin,2023-12-18
+335,ear infection pain fever,Amoxicillin,2024-02-08
+336,viral fever body pain,Dolo650,2024-02-16
+337,ear infection pain fever,Amoxicillin,2023-02-28
+338,high cholesterol risk,Atorvastatin,2023-11-28
+339,sneezing watery eyes,Cetirizine,2024-02-28
+340,allergy sneezing itching,Cetirizine,2023-01-31
+341,sneezing watery eyes,Cetirizine,2023-11-01
+342,flu fever headache,Dolo650,2023-08-13
+343,injury swelling pain,Ibuprofen,2023-12-19
+344,respiratory infection cough,Azithromycin,2023-07-26
+345,respiratory infection cough,Azithromycin,2023-10-04
+346,type2 diabetes high sugar,Metformin,2023-02-11
+347,high fever body pain,Dolo650,2024-03-31
+348,acidic stomach discomfort,Pantoprazole,2023-06-15
+349,flu fever headache,Dolo650,2023-01-14
+350,joint pain inflammation,Ibuprofen,2024-05-07
+351,viral fever body pain,Dolo650,2024-05-01
+352,mild fever headache,Paracetamol,2023-10-23
+353,fever body pain,Paracetamol,2023-08-29
+354,lipid disorder treatment,Atorvastatin,2023-08-15
+355,chest infection cough fever,Azithromycin,2023-10-27
+356,acidic stomach discomfort,Pantoprazole,2024-02-21
+357,high blood sugar fatigue,Metformin,2023-08-29
+358,vomiting dehydration weakness,ORS,2023-06-20
+359,loose motion dehydration,ORS,2023-02-23
+360,sneezing watery eyes,Cetirizine,2023-07-30
+361,type2 diabetes high sugar,Metformin,2023-12-06
+362,acidic stomach discomfort,Pantoprazole,2023-01-19
+363,high blood sugar fatigue,Metformin,2023-06-11
+364,severe throat infection,Azithromycin,2023-03-01
+365,acidic stomach discomfort,Pantoprazole,2024-02-27
+366,viral fever,Paracetamol,2023-08-25
+367,acid reflux stomach burn,Pantoprazole,2023-04-07
+368,cholesterol management,Atorvastatin,2023-11-15
+369,diabetes frequent urination,Metformin,2023-08-15
+370,fever body pain,Paracetamol,2023-05-17
+371,high cholesterol risk,Atorvastatin,2024-04-19
+372,severe throat infection,Azithromycin,2024-03-26
+373,high blood sugar fatigue,Metformin,2023-01-15
+374,high fever body pain,Dolo650,2023-12-30
+375,sneezing watery eyes,Cetirizine,2023-10-10
+376,viral fever,Paracetamol,2023-07-28
+377,joint pain inflammation,Ibuprofen,2024-03-06
+378,injury swelling pain,Ibuprofen,2024-04-29
+379,joint pain inflammation,Ibuprofen,2023-09-13
+380,respiratory infection cough,Azithromycin,2023-12-28
+381,severe throat infection,Azithromycin,2024-03-03
+382,type2 diabetes high sugar,Metformin,2023-05-05
+383,diabetes frequent urination,Metformin,2023-03-16
+384,acid reflux stomach burn,Pantoprazole,2024-04-16
+385,viral fever body pain,Dolo650,2024-01-18
+386,allergy sneezing itching,Cetirizine,2023-05-22
+387,gastritis stomach pain,Pantoprazole,2024-04-23
+388,cholesterol management,Atorvastatin,2024-02-25
+389,mild fever headache,Paracetamol,2024-01-07
+390,respiratory infection cough,Azithromycin,2023-10-24
+391,high blood sugar fatigue,Metformin,2023-08-17
+392,cholesterol management,Atorvastatin,2023-06-26
+393,loose motion dehydration,ORS,2024-01-26
+394,cholesterol management,Atorvastatin,2023-08-22
+395,dehydration diarrhea,ORS,2023-12-24
+396,sinus infection pressure pain,Amoxicillin,2023-07-16
+397,ear infection pain fever,Amoxicillin,2023-01-23
+398,loose motion dehydration,ORS,2023-08-31
+399,gastritis stomach pain,Pantoprazole,2023-12-06
+400,allergic rash itching,Cetirizine,2024-05-08
+401,fever body pain,Paracetamol,2023-09-15
+402,flu fever headache,Dolo650,2024-03-21
+403,injury swelling pain,Ibuprofen,2023-02-21
+404,cholesterol management,Atorvastatin,2023-01-08
+405,allergic rash itching,Cetirizine,2024-03-21
+406,allergy sneezing itching,Cetirizine,2023-08-29
+407,severe throat infection,Azithromycin,2023-11-16
+408,acidic stomach discomfort,Pantoprazole,2023-02-11
+409,loose motion dehydration,ORS,2024-03-15
+410,cholesterol management,Atorvastatin,2024-05-03
+411,loose motion dehydration,ORS,2024-01-03
+412,diabetes frequent urination,Metformin,2023-01-19
+413,high fever body pain,Dolo650,2023-05-01
+414,chest infection cough fever,Azithromycin,2024-01-18
+415,injury swelling pain,Ibuprofen,2024-05-15
+416,muscle pain swelling,Ibuprofen,2023-08-16
+417,sneezing watery eyes,Cetirizine,2024-04-07
+418,fever headache,Paracetamol,2023-06-16
+419,mild fever headache,Paracetamol,2023-07-03
+420,vomiting dehydration weakness,ORS,2023-03-16
+421,sinus infection pressure pain,Amoxicillin,2023-07-30
+422,viral fever body pain,Dolo650,2024-02-10
+423,runny nose allergy,Cetirizine,2023-03-31
+424,injury swelling pain,Ibuprofen,2023-11-14
+425,ear infection pain fever,Amoxicillin,2024-04-12
+426,high fever body pain,Dolo650,2023-04-29
+427,diabetes frequent urination,Metformin,2023-05-11
+428,type2 diabetes high sugar,Metformin,2023-12-08
+429,cough fever headache,Paracetamol,2024-04-06
+430,respiratory infection cough,Azithromycin,2023-10-07
+431,allergy sneezing itching,Cetirizine,2023-08-15
+432,loose motion dehydration,ORS,2023-06-03
+433,acidic stomach discomfort,Pantoprazole,2023-05-09
+434,type2 diabetes high sugar,Metformin,2023-04-12
+435,gastritis stomach pain,Pantoprazole,2023-02-24
+436,ear infection pain fever,Amoxicillin,2023-10-20
+437,loose motion dehydration,ORS,2023-06-01
+438,chest infection cough fever,Azithromycin,2024-05-15
+439,gastritis stomach pain,Pantoprazole,2023-01-05
+440,viral fever body pain,Dolo650,2024-02-03
+441,viral fever,Paracetamol,2024-01-17
+442,type2 diabetes high sugar,Metformin,2024-02-02
+443,sinus infection pressure pain,Amoxicillin,2024-02-15
+444,dehydration diarrhea,ORS,2023-11-22
+445,sinus infection pressure pain,Amoxicillin,2023-05-09
+446,allergy sneezing itching,Cetirizine,2024-04-07
+447,mild fever headache,Paracetamol,2024-02-08
+448,high blood sugar fatigue,Metformin,2023-10-24
+449,loose motion dehydration,ORS,2023-03-09
+450,back pain muscle pain,Ibuprofen,2023-06-17
+451,acid reflux stomach burn,Pantoprazole,2023-04-13
+452,sneezing watery eyes,Cetirizine,2023-09-29
+453,cholesterol management,Atorvastatin,2024-03-01
+454,sneezing watery eyes,Cetirizine,2024-04-12
+455,type2 diabetes high sugar,Metformin,2024-01-18
+456,dehydration diarrhea,ORS,2023-08-28
+457,joint pain inflammation,Ibuprofen,2024-01-22
+458,sinus infection pressure pain,Amoxicillin,2024-01-06
+459,acidic stomach discomfort,Pantoprazole,2023-07-07
+460,injury swelling pain,Ibuprofen,2023-01-08
+461,respiratory infection cough,Azithromycin,2023-03-05
+462,type2 diabetes high sugar,Metformin,2023-12-11
+463,respiratory infection cough,Azithromycin,2023-07-15
+464,dehydration diarrhea,ORS,2023-12-12
+465,ear infection pain fever,Amoxicillin,2023-01-13
+466,viral fever body pain,Dolo650,2023-06-17
+467,high fever body pain,Dolo650,2023-11-28
+468,injury swelling pain,Ibuprofen,2024-04-10
+469,respiratory infection cough,Azithromycin,2023-07-29
+470,joint pain inflammation,Ibuprofen,2023-01-24
+471,mild fever headache,Paracetamol,2023-09-10
+472,muscle pain swelling,Ibuprofen,2023-05-01
+473,high cholesterol risk,Atorvastatin,2023-07-18
+474,type2 diabetes high sugar,Metformin,2023-12-10
+475,cholesterol management,Atorvastatin,2023-10-28
+476,allergic rash itching,Cetirizine,2023-12-02
+477,injury swelling pain,Ibuprofen,2023-11-12
+478,gastritis stomach pain,Pantoprazole,2023-01-17
+479,dehydration diarrhea,ORS,2023-08-16
+480,high blood sugar fatigue,Metformin,2024-03-13
+481,dehydration diarrhea,ORS,2023-12-18
+482,loose motion dehydration,ORS,2024-04-06
+483,dehydration diarrhea,ORS,2023-07-23
+484,chest infection cough fever,Azithromycin,2024-05-10
+485,injury swelling pain,Ibuprofen,2023-02-16
+486,sinus infection pressure pain,Amoxicillin,2023-11-24
+487,high fever body pain,Dolo650,2023-01-26
+488,dehydration diarrhea,ORS,2023-03-06
+489,high fever body pain,Dolo650,2023-02-05
+490,high cholesterol risk,Atorvastatin,2023-10-28
+491,bacterial infection throat pain,Amoxicillin,2023-06-18
+492,allergy sneezing itching,Cetirizine,2023-05-22
+493,runny nose allergy,Cetirizine,2023-10-04
+494,chest infection cough fever,Azithromycin,2023-02-26
+495,fever body pain,Paracetamol,2023-01-08
+496,dehydration diarrhea,ORS,2023-10-29
+497,dehydration diarrhea,ORS,2023-03-31
+498,chest infection cough fever,Azithromycin,2023-03-06
+499,acidic stomach discomfort,Pantoprazole,2023-02-28
+500,injury swelling pain,Ibuprofen,2023-08-18
+501,loose motion dehydration,ORS,2023-10-31
+502,injury swelling pain,Ibuprofen,2023-09-15
+503,sinus infection pressure pain,Amoxicillin,2023-01-23
+504,cholesterol management,Atorvastatin,2023-08-23
+505,fever headache,Paracetamol,2023-09-03
+506,gastritis stomach pain,Pantoprazole,2023-12-18
+507,injury swelling pain,Ibuprofen,2023-12-31
+508,high blood sugar fatigue,Metformin,2024-04-05
+509,back pain muscle pain,Ibuprofen,2023-11-08
+510,allergy sneezing itching,Cetirizine,2023-03-06
+511,respiratory infection cough,Azithromycin,2023-11-21
+512,viral fever body pain,Dolo650,2023-12-31
+513,vomiting dehydration weakness,ORS,2023-11-02
+514,cholesterol management,Atorvastatin,2023-08-21
+515,lipid disorder treatment,Atorvastatin,2023-08-09
+516,muscle pain swelling,Ibuprofen,2024-03-12
+517,lipid disorder treatment,Atorvastatin,2024-03-19
+518,ear infection pain fever,Amoxicillin,2023-08-20
+519,ear infection pain fever,Amoxicillin,2023-06-23
+520,type2 diabetes high sugar,Metformin,2023-08-01
+521,back pain muscle pain,Ibuprofen,2023-08-07
+522,loose motion dehydration,ORS,2023-05-11
+523,dehydration diarrhea,ORS,2023-12-18
+524,high blood sugar fatigue,Metformin,2023-02-16
+525,muscle pain swelling,Ibuprofen,2023-08-10
+526,back pain muscle pain,Ibuprofen,2024-02-20
+527,allergy sneezing itching,Cetirizine,2023-10-28
+528,lipid disorder treatment,Atorvastatin,2023-06-18
+529,injury swelling pain,Ibuprofen,2023-07-01
+530,acidic stomach discomfort,Pantoprazole,2023-01-27
+531,respiratory infection cough,Azithromycin,2023-06-09
+532,dehydration diarrhea,ORS,2023-10-23
+533,high cholesterol risk,Atorvastatin,2023-03-21
+534,high blood sugar fatigue,Metformin,2024-03-09
+535,back pain muscle pain,Ibuprofen,2024-03-08
+536,cholesterol management,Atorvastatin,2023-02-28
+537,respiratory infection cough,Azithromycin,2023-04-26
+538,acidic stomach discomfort,Pantoprazole,2024-05-13
+539,viral fever body pain,Dolo650,2023-12-12
+540,high cholesterol risk,Atorvastatin,2023-11-08
+541,chest infection cough fever,Azithromycin,2023-04-03
+542,respiratory infection cough,Azithromycin,2024-01-26
+543,severe throat infection,Azithromycin,2023-06-29
+544,fever body pain,Paracetamol,2024-03-21
+545,allergic rash itching,Cetirizine,2023-02-05
+546,allergy sneezing itching,Cetirizine,2023-02-16
+547,high cholesterol risk,Atorvastatin,2023-07-12
+548,gastritis stomach pain,Pantoprazole,2023-06-24
+549,sneezing watery eyes,Cetirizine,2023-06-09
+550,loose motion dehydration,ORS,2023-11-02
+551,muscle pain swelling,Ibuprofen,2023-03-21
+552,allergy sneezing itching,Cetirizine,2023-12-12
+553,back pain muscle pain,Ibuprofen,2023-08-15
+554,gastritis stomach pain,Pantoprazole,2023-11-07
+555,type2 diabetes high sugar,Metformin,2023-05-20
+556,sinus infection pressure pain,Amoxicillin,2023-02-28
+557,vomiting dehydration weakness,ORS,2023-02-26
+558,respiratory infection cough,Azithromycin,2023-12-14
+559,flu fever headache,Dolo650,2023-09-27
+560,chest infection cough fever,Azithromycin,2023-04-23
+561,acidic stomach discomfort,Pantoprazole,2023-01-29
+562,fever body pain,Paracetamol,2023-06-04
+563,bacterial infection throat pain,Amoxicillin,2024-01-27
+564,severe throat infection,Azithromycin,2023-06-17
+565,muscle pain swelling,Ibuprofen,2023-09-12
+566,acid reflux stomach burn,Pantoprazole,2023-03-08
+567,acidic stomach discomfort,Pantoprazole,2023-12-27
+568,sinus infection pressure pain,Amoxicillin,2023-10-14
+569,dehydration diarrhea,ORS,2023-07-23
+570,cough fever headache,Paracetamol,2023-01-10
+571,high blood sugar fatigue,Metformin,2024-03-17
+572,loose motion dehydration,ORS,2023-08-08
+573,flu fever headache,Dolo650,2023-12-30
+574,gastritis stomach pain,Pantoprazole,2023-02-28
+575,acid reflux stomach burn,Pantoprazole,2024-05-09
+576,dehydration diarrhea,ORS,2024-02-15
+577,flu fever headache,Dolo650,2024-03-01
+578,dehydration diarrhea,ORS,2023-08-12
+579,joint pain inflammation,Ibuprofen,2023-08-12
+580,flu fever headache,Dolo650,2023-09-26
+581,injury swelling pain,Ibuprofen,2024-03-21
+582,respiratory infection cough,Azithromycin,2023-06-23
+583,ear infection pain fever,Amoxicillin,2024-02-03
+584,allergy sneezing itching,Cetirizine,2023-09-19
+585,joint pain inflammation,Ibuprofen,2024-04-08
+586,vomiting dehydration weakness,ORS,2024-01-08
+587,runny nose allergy,Cetirizine,2023-02-22
+588,sneezing watery eyes,Cetirizine,2023-04-12
+589,runny nose allergy,Cetirizine,2024-01-25
+590,joint pain inflammation,Ibuprofen,2024-05-02
+591,type2 diabetes high sugar,Metformin,2024-01-22
+592,viral fever body pain,Dolo650,2023-08-18
+593,viral fever body pain,Dolo650,2023-11-22
+594,flu fever headache,Dolo650,2024-03-18
+595,dehydration diarrhea,ORS,2023-08-14
+596,injury swelling pain,Ibuprofen,2023-08-15
+597,severe throat infection,Azithromycin,2023-10-30
+598,mild fever headache,Paracetamol,2023-09-17
+599,back pain muscle pain,Ibuprofen,2023-08-25
+600,high blood sugar fatigue,Metformin,2023-01-30
+601,vomiting dehydration weakness,ORS,2023-02-09
+602,injury swelling pain,Ibuprofen,2023-08-25
+603,viral fever body pain,Dolo650,2024-05-03
+604,cough fever headache,Paracetamol,2024-04-10
+605,viral fever body pain,Dolo650,2023-04-07
+606,loose motion dehydration,ORS,2023-09-01
+607,high cholesterol risk,Atorvastatin,2024-05-05
+608,cough fever headache,Paracetamol,2023-02-22
+609,loose motion dehydration,ORS,2023-02-13
+610,lipid disorder treatment,Atorvastatin,2023-03-30
+611,fever body pain,Paracetamol,2023-12-29
+612,type2 diabetes high sugar,Metformin,2023-09-26
+613,lipid disorder treatment,Atorvastatin,2023-03-23
+614,vomiting dehydration weakness,ORS,2024-04-14
+615,severe throat infection,Azithromycin,2023-07-29
+616,loose motion dehydration,ORS,2023-11-03
+617,mild fever headache,Paracetamol,2023-02-03
+618,dehydration diarrhea,ORS,2023-10-13
+619,gastritis stomach pain,Pantoprazole,2023-05-10
+620,high fever body pain,Dolo650,2023-06-20
+621,joint pain inflammation,Ibuprofen,2024-04-14
+622,vomiting dehydration weakness,ORS,2024-05-10
+623,acid reflux stomach burn,Pantoprazole,2023-11-01
+624,back pain muscle pain,Ibuprofen,2023-10-14
+625,acidic stomach discomfort,Pantoprazole,2024-02-10
+626,dehydration diarrhea,ORS,2023-12-10
+627,high cholesterol risk,Atorvastatin,2023-11-27
+628,acidic stomach discomfort,Pantoprazole,2023-07-05
+629,mild fever headache,Paracetamol,2023-06-08
+630,runny nose allergy,Cetirizine,2023-06-24
+631,high blood sugar fatigue,Metformin,2023-04-26
+632,runny nose allergy,Cetirizine,2023-02-09
+633,chest infection cough fever,Azithromycin,2023-09-17
+634,lipid disorder treatment,Atorvastatin,2024-03-28
+635,high cholesterol risk,Atorvastatin,2023-12-05
+636,loose motion dehydration,ORS,2023-03-09
+637,flu fever headache,Dolo650,2023-03-20
+638,runny nose allergy,Cetirizine,2024-03-01
+639,high fever body pain,Dolo650,2024-01-05
+640,high blood sugar fatigue,Metformin,2023-07-30
+641,loose motion dehydration,ORS,2024-01-04
+642,ear infection pain fever,Amoxicillin,2023-11-09
+643,respiratory infection cough,Azithromycin,2024-02-06
+644,high blood sugar fatigue,Metformin,2023-10-01
+645,ear infection pain fever,Amoxicillin,2024-05-09
+646,high blood sugar fatigue,Metformin,2023-07-08
+647,flu fever headache,Dolo650,2023-08-25
+648,severe throat infection,Azithromycin,2023-09-15
+649,cholesterol management,Atorvastatin,2024-05-09
+650,runny nose allergy,Cetirizine,2024-02-15
+651,high fever body pain,Dolo650,2024-03-22
+652,chest infection cough fever,Azithromycin,2023-11-25
+653,type2 diabetes high sugar,Metformin,2023-10-11
+654,muscle pain swelling,Ibuprofen,2023-05-26
+655,joint pain inflammation,Ibuprofen,2023-05-20
+656,diabetes frequent urination,Metformin,2023-03-17
+657,acid reflux stomach burn,Pantoprazole,2024-04-29
+658,ear infection pain fever,Amoxicillin,2024-03-28
+659,dehydration diarrhea,ORS,2023-08-01
+660,cough fever headache,Paracetamol,2023-09-15
+661,dehydration diarrhea,ORS,2023-07-17
+662,back pain muscle pain,Ibuprofen,2023-04-25
+663,mild fever headache,Paracetamol,2024-04-21
+664,back pain muscle pain,Ibuprofen,2024-02-10
+665,runny nose allergy,Cetirizine,2023-01-20
+666,severe throat infection,Azithromycin,2023-12-23
+667,allergic rash itching,Cetirizine,2023-08-18
+668,high fever body pain,Dolo650,2024-04-08
+669,muscle pain swelling,Ibuprofen,2023-05-12
+670,bacterial infection throat pain,Amoxicillin,2023-10-08
+671,viral fever body pain,Dolo650,2023-08-05
+672,back pain muscle pain,Ibuprofen,2023-05-02
+673,chest infection cough fever,Azithromycin,2023-01-25
+674,ear infection pain fever,Amoxicillin,2023-11-24
+675,flu fever headache,Dolo650,2023-02-02
+676,injury swelling pain,Ibuprofen,2023-11-02
+677,high cholesterol risk,Atorvastatin,2023-11-20
+678,lipid disorder treatment,Atorvastatin,2023-05-04
+679,sneezing watery eyes,Cetirizine,2023-08-08
+680,viral fever,Paracetamol,2023-06-30
+681,sinus infection pressure pain,Amoxicillin,2023-08-02
+682,allergy sneezing itching,Cetirizine,2023-09-26
+683,dehydration diarrhea,ORS,2024-05-03
+684,lipid disorder treatment,Atorvastatin,2023-09-17
+685,lipid disorder treatment,Atorvastatin,2023-01-11
+686,gastritis stomach pain,Pantoprazole,2023-01-23
+687,gastritis stomach pain,Pantoprazole,2023-05-10
+688,mild fever headache,Paracetamol,2024-02-08
+689,back pain muscle pain,Ibuprofen,2023-05-04
+690,back pain muscle pain,Ibuprofen,2023-03-10
+691,mild fever headache,Paracetamol,2023-10-07
+692,loose motion dehydration,ORS,2023-03-31
+693,diabetes frequent urination,Metformin,2023-09-03
+694,runny nose allergy,Cetirizine,2023-02-02
+695,high blood sugar fatigue,Metformin,2023-05-31
+696,bacterial infection throat pain,Amoxicillin,2024-02-10
+697,bacterial infection throat pain,Amoxicillin,2023-06-11
+698,respiratory infection cough,Azithromycin,2023-07-23
+699,cholesterol management,Atorvastatin,2023-05-10
+700,fever body pain,Paracetamol,2023-05-27
+701,dehydration diarrhea,ORS,2024-03-19
+702,vomiting dehydration weakness,ORS,2023-03-05
+703,vomiting dehydration weakness,ORS,2024-03-31
+704,acidic stomach discomfort,Pantoprazole,2023-08-14
+705,gastritis stomach pain,Pantoprazole,2024-05-13
+706,allergic rash itching,Cetirizine,2023-12-21
+707,type2 diabetes high sugar,Metformin,2024-04-18
+708,cholesterol management,Atorvastatin,2024-02-15
+709,injury swelling pain,Ibuprofen,2023-02-10
+710,acidic stomach discomfort,Pantoprazole,2024-02-26
+711,sneezing watery eyes,Cetirizine,2023-06-14
+712,muscle pain swelling,Ibuprofen,2023-06-17
+713,severe throat infection,Azithromycin,2023-08-17
+714,viral fever body pain,Dolo650,2023-08-07
+715,allergic rash itching,Cetirizine,2023-06-29
+716,high blood sugar fatigue,Metformin,2024-01-08
+717,loose motion dehydration,ORS,2023-08-11
+718,respiratory infection cough,Azithromycin,2024-02-10
+719,fever headache,Paracetamol,2023-12-10
+720,gastritis stomach pain,Pantoprazole,2023-09-20
+721,allergy sneezing itching,Cetirizine,2023-03-15
+722,viral fever body pain,Dolo650,2024-02-05
+723,high blood sugar fatigue,Metformin,2023-03-06
+724,joint pain inflammation,Ibuprofen,2024-02-03
+725,vomiting dehydration weakness,ORS,2023-07-16
+726,high fever body pain,Dolo650,2023-11-06
+727,allergic rash itching,Cetirizine,2024-04-30
+728,vomiting dehydration weakness,ORS,2023-08-16
+729,joint pain inflammation,Ibuprofen,2023-09-29
+730,vomiting dehydration weakness,ORS,2023-06-10
+731,chest infection cough fever,Azithromycin,2024-05-06
+732,muscle pain swelling,Ibuprofen,2024-01-12
+733,allergic rash itching,Cetirizine,2023-09-23
+734,acidic stomach discomfort,Pantoprazole,2023-03-02
+735,severe throat infection,Azithromycin,2023-12-27
+736,high blood sugar fatigue,Metformin,2023-11-10
+737,respiratory infection cough,Azithromycin,2024-04-14
+738,high blood sugar fatigue,Metformin,2023-03-04
+739,allergy sneezing itching,Cetirizine,2023-08-20
+740,allergic rash itching,Cetirizine,2023-02-14
+741,loose motion dehydration,ORS,2023-06-27
+742,back pain muscle pain,Ibuprofen,2024-04-01
+743,chest infection cough fever,Azithromycin,2023-12-31
+744,sneezing watery eyes,Cetirizine,2023-09-18
+745,bacterial infection throat pain,Amoxicillin,2023-04-13
+746,runny nose allergy,Cetirizine,2024-02-09
+747,high blood sugar fatigue,Metformin,2023-07-04
+748,lipid disorder treatment,Atorvastatin,2023-07-08
+749,diabetes frequent urination,Metformin,2023-03-08
+750,high fever body pain,Dolo650,2023-02-03
+751,severe throat infection,Azithromycin,2024-01-03
+752,diabetes frequent urination,Metformin,2023-07-30
+753,acidic stomach discomfort,Pantoprazole,2023-02-07
+754,sneezing watery eyes,Cetirizine,2023-11-25
+755,injury swelling pain,Ibuprofen,2023-08-27
+756,cholesterol management,Atorvastatin,2023-03-07
+757,lipid disorder treatment,Atorvastatin,2023-10-28
+758,runny nose allergy,Cetirizine,2023-08-10
+759,high cholesterol risk,Atorvastatin,2024-03-01
+760,joint pain inflammation,Ibuprofen,2023-06-05
+761,runny nose allergy,Cetirizine,2023-06-15
+762,ear infection pain fever,Amoxicillin,2024-04-30
+763,cholesterol management,Atorvastatin,2024-03-09
+764,back pain muscle pain,Ibuprofen,2023-04-11
+765,cholesterol management,Atorvastatin,2023-03-06
+766,respiratory infection cough,Azithromycin,2023-10-01
+767,joint pain inflammation,Ibuprofen,2023-10-31
+768,high fever body pain,Dolo650,2023-03-29
+769,viral fever body pain,Dolo650,2024-04-06
+770,flu fever headache,Dolo650,2024-03-07
+771,high fever body pain,Dolo650,2024-02-27
+772,fever headache,Paracetamol,2023-01-24
+773,flu fever headache,Dolo650,2023-11-30
+774,sinus infection pressure pain,Amoxicillin,2023-08-02
+775,viral fever body pain,Dolo650,2023-01-16
+776,diabetes frequent urination,Metformin,2023-10-07
+777,respiratory infection cough,Azithromycin,2024-05-04
+778,severe throat infection,Azithromycin,2023-05-06
+779,gastritis stomach pain,Pantoprazole,2023-08-21
+780,muscle pain swelling,Ibuprofen,2023-03-22
+781,type2 diabetes high sugar,Metformin,2023-09-05
+782,high blood sugar fatigue,Metformin,2023-06-24
+783,high fever body pain,Dolo650,2023-06-10
+784,loose motion dehydration,ORS,2024-03-16
+785,vomiting dehydration weakness,ORS,2023-03-08
+786,loose motion dehydration,ORS,2023-10-15
+787,back pain muscle pain,Ibuprofen,2023-05-04
+788,high blood sugar fatigue,Metformin,2023-05-17
+789,high blood sugar fatigue,Metformin,2023-03-14
+790,muscle pain swelling,Ibuprofen,2023-05-29
+791,acidic stomach discomfort,Pantoprazole,2023-08-03
+792,bacterial infection throat pain,Amoxicillin,2024-02-21
+793,loose motion dehydration,ORS,2024-01-05
+794,dehydration diarrhea,ORS,2024-01-26
+795,allergic rash itching,Cetirizine,2023-09-21
+796,type2 diabetes high sugar,Metformin,2024-03-26
+797,severe throat infection,Azithromycin,2023-01-12
+798,injury swelling pain,Ibuprofen,2023-09-16
+799,high blood sugar fatigue,Metformin,2023-04-21
+800,flu fever headache,Dolo650,2023-01-25
+801,mild fever headache,Paracetamol,2023-09-11
+802,viral fever body pain,Dolo650,2023-12-11
+803,type2 diabetes high sugar,Metformin,2023-10-02
+804,fever headache,Paracetamol,2023-08-09
+805,sneezing watery eyes,Cetirizine,2024-01-08
+806,vomiting dehydration weakness,ORS,2023-07-07
+807,cough fever headache,Paracetamol,2023-01-27
+808,viral fever body pain,Dolo650,2023-04-10
+809,loose motion dehydration,ORS,2023-05-28
+810,injury swelling pain,Ibuprofen,2023-09-16
+811,diabetes frequent urination,Metformin,2023-05-24
+812,viral fever body pain,Dolo650,2023-11-09
+813,joint pain inflammation,Ibuprofen,2024-05-14
+814,injury swelling pain,Ibuprofen,2023-07-11
+815,loose motion dehydration,ORS,2024-04-25
+816,dehydration diarrhea,ORS,2023-04-12
+817,viral fever body pain,Dolo650,2023-07-25
+818,high cholesterol risk,Atorvastatin,2023-01-24
+819,fever body pain,Paracetamol,2024-01-01
+820,vomiting dehydration weakness,ORS,2023-09-23
+821,high blood sugar fatigue,Metformin,2023-11-07
+822,high cholesterol risk,Atorvastatin,2023-06-17
+823,flu fever headache,Dolo650,2023-03-25
+824,acidic stomach discomfort,Pantoprazole,2024-01-14
+825,respiratory infection cough,Azithromycin,2023-06-22
+826,lipid disorder treatment,Atorvastatin,2023-09-30
+827,diabetes frequent urination,Metformin,2023-10-16
+828,severe throat infection,Azithromycin,2024-02-22
+829,mild fever headache,Paracetamol,2023-06-19
+830,injury swelling pain,Ibuprofen,2023-10-26
+831,respiratory infection cough,Azithromycin,2024-03-22
+832,viral fever,Paracetamol,2023-08-31
+833,respiratory infection cough,Azithromycin,2024-02-05
+834,viral fever body pain,Dolo650,2023-04-27
+835,viral fever,Paracetamol,2023-09-03
+836,allergic rash itching,Cetirizine,2023-03-17
+837,bacterial infection throat pain,Amoxicillin,2023-10-21
+838,joint pain inflammation,Ibuprofen,2023-01-10
+839,type2 diabetes high sugar,Metformin,2023-08-03
+840,allergic rash itching,Cetirizine,2023-12-20
+841,ear infection pain fever,Amoxicillin,2023-09-14
+842,flu fever headache,Dolo650,2024-03-22
+843,fever body pain,Paracetamol,2023-09-23
+844,sinus infection pressure pain,Amoxicillin,2023-06-16
+845,diabetes frequent urination,Metformin,2023-07-12
+846,dehydration diarrhea,ORS,2023-08-24
+847,cholesterol management,Atorvastatin,2023-10-07
+848,loose motion dehydration,ORS,2024-01-31
+849,respiratory infection cough,Azithromycin,2023-09-05
+850,bacterial infection throat pain,Amoxicillin,2023-05-23
+851,cholesterol management,Atorvastatin,2023-04-26
+852,severe throat infection,Azithromycin,2023-12-27
+853,sinus infection pressure pain,Amoxicillin,2023-12-27
+854,type2 diabetes high sugar,Metformin,2023-09-03
+855,loose motion dehydration,ORS,2024-04-23
+856,severe throat infection,Azithromycin,2023-03-04
+857,viral fever body pain,Dolo650,2023-10-06
+858,gastritis stomach pain,Pantoprazole,2024-02-24
+859,dehydration diarrhea,ORS,2023-05-29
+860,mild fever headache,Paracetamol,2024-05-04
+861,back pain muscle pain,Ibuprofen,2024-04-18
+862,diabetes frequent urination,Metformin,2023-05-12
+863,high blood sugar fatigue,Metformin,2023-04-14
+864,cholesterol management,Atorvastatin,2024-04-22
+865,lipid disorder treatment,Atorvastatin,2023-05-20
+866,allergy sneezing itching,Cetirizine,2023-11-12
+867,high fever body pain,Dolo650,2023-05-05
+868,viral fever,Paracetamol,2023-04-26
+869,bacterial infection throat pain,Amoxicillin,2023-02-21
+870,gastritis stomach pain,Pantoprazole,2024-01-03
+871,high blood sugar fatigue,Metformin,2023-12-15
+872,allergy sneezing itching,Cetirizine,2024-05-08
+873,high cholesterol risk,Atorvastatin,2023-07-28
+874,type2 diabetes high sugar,Metformin,2023-11-30
+875,ear infection pain fever,Amoxicillin,2023-06-14
+876,respiratory infection cough,Azithromycin,2023-01-31
+877,joint pain inflammation,Ibuprofen,2023-10-01
+878,fever body pain,Paracetamol,2023-08-02
+879,allergy sneezing itching,Cetirizine,2024-03-04
+880,gastritis stomach pain,Pantoprazole,2023-04-06
+881,chest infection cough fever,Azithromycin,2023-01-05
+882,respiratory infection cough,Azithromycin,2023-11-05
+883,back pain muscle pain,Ibuprofen,2023-05-26
+884,diabetes frequent urination,Metformin,2023-10-06
+885,cholesterol management,Atorvastatin,2024-03-31
+886,allergic rash itching,Cetirizine,2023-05-20
+887,bacterial infection throat pain,Amoxicillin,2023-06-19
+888,allergic rash itching,Cetirizine,2023-11-28
+889,respiratory infection cough,Azithromycin,2023-04-06
+890,mild fever headache,Paracetamol,2024-02-09
+891,respiratory infection cough,Azithromycin,2023-12-12
+892,bacterial infection throat pain,Amoxicillin,2023-11-09
+893,gastritis stomach pain,Pantoprazole,2023-09-21
+894,dehydration diarrhea,ORS,2023-07-25
+895,joint pain inflammation,Ibuprofen,2023-03-13
+896,type2 diabetes high sugar,Metformin,2024-04-24
+897,bacterial infection throat pain,Amoxicillin,2023-05-14
+898,acid reflux stomach burn,Pantoprazole,2023-08-17
+899,severe throat infection,Azithromycin,2023-06-04
+900,viral fever body pain,Dolo650,2023-10-21
+901,mild fever headache,Paracetamol,2023-12-01
+902,loose motion dehydration,ORS,2023-05-01
+903,fever headache,Paracetamol,2023-08-27
+904,chest infection cough fever,Azithromycin,2023-07-27
+905,lipid disorder treatment,Atorvastatin,2024-01-30
+906,respiratory infection cough,Azithromycin,2023-03-02
+907,severe throat infection,Azithromycin,2023-11-11
+908,bacterial infection throat pain,Amoxicillin,2024-05-05
+909,allergic rash itching,Cetirizine,2023-03-20
+910,diabetes frequent urination,Metformin,2023-11-07
+911,vomiting dehydration weakness,ORS,2023-12-26
+912,cholesterol management,Atorvastatin,2024-01-23
+913,lipid disorder treatment,Atorvastatin,2024-02-27
+914,bacterial infection throat pain,Amoxicillin,2023-12-15
+915,high fever body pain,Dolo650,2023-09-27
+916,diabetes frequent urination,Metformin,2023-12-27
+917,dehydration diarrhea,ORS,2024-04-14
+918,high fever body pain,Dolo650,2023-02-01
+919,lipid disorder treatment,Atorvastatin,2023-04-14
+920,viral fever body pain,Dolo650,2023-03-18
+921,sneezing watery eyes,Cetirizine,2024-03-13
+922,cholesterol management,Atorvastatin,2023-03-01
+923,sinus infection pressure pain,Amoxicillin,2023-10-26
+924,high blood sugar fatigue,Metformin,2024-04-05
+925,cholesterol management,Atorvastatin,2024-02-19
+926,cough fever headache,Paracetamol,2023-03-09
+927,cholesterol management,Atorvastatin,2023-08-22
+928,high fever body pain,Dolo650,2023-10-14
+929,diabetes frequent urination,Metformin,2024-02-18
+930,respiratory infection cough,Azithromycin,2023-01-12
+931,gastritis stomach pain,Pantoprazole,2024-02-23
+932,fever body pain,Paracetamol,2023-10-24
+933,muscle pain swelling,Ibuprofen,2023-08-05
+934,loose motion dehydration,ORS,2023-02-02
+935,high cholesterol risk,Atorvastatin,2024-04-23
+936,injury swelling pain,Ibuprofen,2023-01-17
+937,severe throat infection,Azithromycin,2023-04-03
+938,allergic rash itching,Cetirizine,2023-07-11
+939,gastritis stomach pain,Pantoprazole,2024-03-21
+940,gastritis stomach pain,Pantoprazole,2023-02-11
+941,high cholesterol risk,Atorvastatin,2023-12-01
+942,dehydration diarrhea,ORS,2023-04-02
+943,cholesterol management,Atorvastatin,2023-09-28
+944,runny nose allergy,Cetirizine,2024-03-03
+945,fever headache,Paracetamol,2024-05-15
+946,severe throat infection,Azithromycin,2023-12-11
+947,cholesterol management,Atorvastatin,2023-09-30
+948,acid reflux stomach burn,Pantoprazole,2023-05-07
+949,type2 diabetes high sugar,Metformin,2023-03-21
+950,chest infection cough fever,Azithromycin,2024-04-24
+951,muscle pain swelling,Ibuprofen,2024-02-19
+952,acidic stomach discomfort,Pantoprazole,2024-01-28
+953,fever body pain,Paracetamol,2023-04-16
+954,muscle pain swelling,Ibuprofen,2023-11-01
+955,cough fever headache,Paracetamol,2023-11-03
+956,fever body pain,Paracetamol,2024-01-15
+957,cough fever headache,Paracetamol,2023-08-13
+958,sinus infection pressure pain,Amoxicillin,2023-04-22
+959,fever body pain,Paracetamol,2023-09-15
+960,chest infection cough fever,Azithromycin,2024-02-22
+961,flu fever headache,Dolo650,2023-10-23
+962,viral fever body pain,Dolo650,2024-02-24
+963,dehydration diarrhea,ORS,2023-06-04
+964,runny nose allergy,Cetirizine,2023-07-31
+965,severe throat infection,Azithromycin,2023-02-01
+966,lipid disorder treatment,Atorvastatin,2024-03-26
+967,allergic rash itching,Cetirizine,2023-10-12
+968,high blood sugar fatigue,Metformin,2024-05-12
+969,loose motion dehydration,ORS,2023-12-10
+970,acidic stomach discomfort,Pantoprazole,2023-06-13
+971,gastritis stomach pain,Pantoprazole,2023-03-18
+972,severe throat infection,Azithromycin,2023-04-05
+973,cholesterol management,Atorvastatin,2023-05-04
+974,ear infection pain fever,Amoxicillin,2024-03-15
+975,allergic rash itching,Cetirizine,2024-04-13
+976,viral fever,Paracetamol,2023-07-31
+977,acidic stomach discomfort,Pantoprazole,2023-09-29
+978,allergic rash itching,Cetirizine,2023-05-05
+979,chest infection cough fever,Azithromycin,2023-06-19
+980,injury swelling pain,Ibuprofen,2024-03-09
+981,dehydration diarrhea,ORS,2023-10-02
+982,bacterial infection throat pain,Amoxicillin,2023-05-18
+983,acidic stomach discomfort,Pantoprazole,2023-11-06
+984,high fever body pain,Dolo650,2024-03-23
+985,joint pain inflammation,Ibuprofen,2024-02-16
+986,viral fever body pain,Dolo650,2023-12-10
+987,high cholesterol risk,Atorvastatin,2023-09-03
+988,ear infection pain fever,Amoxicillin,2023-06-05
+989,fever body pain,Paracetamol,2024-04-24
+990,sinus infection pressure pain,Amoxicillin,2023-03-02
+991,high blood sugar fatigue,Metformin,2023-12-23
+992,viral fever body pain,Dolo650,2023-04-15
+993,acid reflux stomach burn,Pantoprazole,2023-10-10
+994,vomiting dehydration weakness,ORS,2023-07-14
+995,diabetes frequent urination,Metformin,2023-11-29
+996,vomiting dehydration weakness,ORS,2023-05-14
+997,loose motion dehydration,ORS,2024-03-27
+998,type2 diabetes high sugar,Metformin,2023-02-20
+999,type2 diabetes high sugar,Metformin,2024-04-13
+1000,ear infection pain fever,Amoxicillin,2023-06-10
+1001,acid reflux stomach burn,Pantoprazole,2023-10-16
+1002,sinus infection pressure pain,Amoxicillin,2023-03-16
+1003,mild fever headache,Paracetamol,2023-10-11
+1004,viral fever body pain,Dolo650,2024-01-04
+1005,gastritis stomach pain,Pantoprazole,2023-03-20
+1006,ear infection pain fever,Amoxicillin,2023-04-28
+1007,acidic stomach discomfort,Pantoprazole,2024-03-02
+1008,ear infection pain fever,Amoxicillin,2023-10-09
+1009,vomiting dehydration weakness,ORS,2024-01-26
+1010,diabetes frequent urination,Metformin,2023-11-25
+1011,type2 diabetes high sugar,Metformin,2023-03-28
+1012,dehydration diarrhea,ORS,2023-03-13
+1013,cholesterol management,Atorvastatin,2023-04-05
+1014,lipid disorder treatment,Atorvastatin,2024-05-05
+1015,viral fever,Paracetamol,2023-01-18
+1016,muscle pain swelling,Ibuprofen,2024-01-27
+1017,cough fever headache,Paracetamol,2023-03-12
+1018,bacterial infection throat pain,Amoxicillin,2023-12-29
+1019,allergy sneezing itching,Cetirizine,2023-04-22
+1020,cholesterol management,Atorvastatin,2023-07-11
+1021,viral fever,Paracetamol,2023-11-23
+1022,flu fever headache,Dolo650,2023-12-04
+1023,high blood sugar fatigue,Metformin,2023-01-04
+1024,lipid disorder treatment,Atorvastatin,2023-07-30
+1025,fever headache,Paracetamol,2023-09-29
+1026,respiratory infection cough,Azithromycin,2024-05-15
+1027,chest infection cough fever,Azithromycin,2023-09-15
+1028,acid reflux stomach burn,Pantoprazole,2023-02-24
+1029,joint pain inflammation,Ibuprofen,2023-05-04
+1030,sinus infection pressure pain,Amoxicillin,2023-09-27
+1031,severe throat infection,Azithromycin,2023-05-17
+1032,acid reflux stomach burn,Pantoprazole,2023-07-11
+1033,gastritis stomach pain,Pantoprazole,2023-10-17
+1034,sinus infection pressure pain,Amoxicillin,2023-04-26
+1035,respiratory infection cough,Azithromycin,2024-02-28
+1036,muscle pain swelling,Ibuprofen,2023-02-17
+1037,gastritis stomach pain,Pantoprazole,2023-07-13
+1038,cholesterol management,Atorvastatin,2023-01-29
+1039,fever body pain,Paracetamol,2023-02-12
+1040,type2 diabetes high sugar,Metformin,2023-11-27
+1041,loose motion dehydration,ORS,2024-05-15
+1042,muscle pain swelling,Ibuprofen,2023-04-28
+1043,sinus infection pressure pain,Amoxicillin,2024-03-30
+1044,flu fever headache,Dolo650,2023-05-19
+1045,fever headache,Paracetamol,2023-12-17
+1046,respiratory infection cough,Azithromycin,2023-10-16
+1047,fever body pain,Paracetamol,2024-04-20
+1048,dehydration diarrhea,ORS,2024-05-07
+1049,sinus infection pressure pain,Amoxicillin,2023-03-15
+1050,acid reflux stomach burn,Pantoprazole,2023-06-03
+1051,runny nose allergy,Cetirizine,2023-10-18
+1052,acidic stomach discomfort,Pantoprazole,2024-04-04
+1053,cholesterol management,Atorvastatin,2023-07-16
+1054,allergy sneezing itching,Cetirizine,2023-09-14
+1055,dehydration diarrhea,ORS,2023-02-20
+1056,acid reflux stomach burn,Pantoprazole,2024-03-05
+1057,back pain muscle pain,Ibuprofen,2023-11-06
+1058,viral fever body pain,Dolo650,2023-07-23
+1059,dehydration diarrhea,ORS,2023-11-21
+1060,severe throat infection,Azithromycin,2023-09-09
+1061,ear infection pain fever,Amoxicillin,2023-10-11
+1062,gastritis stomach pain,Pantoprazole,2023-04-06
+1063,viral fever body pain,Dolo650,2023-07-14
+1064,back pain muscle pain,Ibuprofen,2024-02-13
+1065,sinus infection pressure pain,Amoxicillin,2023-02-07
+1066,back pain muscle pain,Ibuprofen,2023-03-20
+1067,acidic stomach discomfort,Pantoprazole,2024-02-06
+1068,allergic rash itching,Cetirizine,2023-06-12
+1069,dehydration diarrhea,ORS,2023-02-16
+1070,mild fever headache,Paracetamol,2023-08-16
+1071,vomiting dehydration weakness,ORS,2023-02-22
+1072,allergy sneezing itching,Cetirizine,2023-04-06
+1073,gastritis stomach pain,Pantoprazole,2023-10-13
+1074,lipid disorder treatment,Atorvastatin,2023-07-28
+1075,muscle pain swelling,Ibuprofen,2023-02-15
+1076,loose motion dehydration,ORS,2023-02-17
+1077,viral fever body pain,Dolo650,2024-02-06
+1078,vomiting dehydration weakness,ORS,2023-01-07
+1079,severe throat infection,Azithromycin,2023-07-18
+1080,joint pain inflammation,Ibuprofen,2023-10-20
+1081,high cholesterol risk,Atorvastatin,2023-12-17
+1082,acid reflux stomach burn,Pantoprazole,2023-03-13
+1083,severe throat infection,Azithromycin,2023-05-18
+1084,high blood sugar fatigue,Metformin,2023-02-02
+1085,allergic rash itching,Cetirizine,2023-05-22
+1086,gastritis stomach pain,Pantoprazole,2023-09-05
+1087,back pain muscle pain,Ibuprofen,2023-05-09
+1088,sinus infection pressure pain,Amoxicillin,2023-11-17
+1089,diabetes frequent urination,Metformin,2023-11-12
+1090,ear infection pain fever,Amoxicillin,2023-02-24
+1091,sneezing watery eyes,Cetirizine,2023-01-04
+1092,gastritis stomach pain,Pantoprazole,2024-03-06
+1093,flu fever headache,Dolo650,2024-02-16
+1094,vomiting dehydration weakness,ORS,2023-06-21
+1095,acidic stomach discomfort,Pantoprazole,2024-05-13
+1096,high fever body pain,Dolo650,2023-06-03
+1097,loose motion dehydration,ORS,2024-04-30
+1098,ear infection pain fever,Amoxicillin,2023-06-10
+1099,allergic rash itching,Cetirizine,2024-05-10
+1100,vomiting dehydration weakness,ORS,2024-01-12
+1101,diabetes frequent urination,Metformin,2024-02-05
+1102,ear infection pain fever,Amoxicillin,2023-07-12
+1103,severe throat infection,Azithromycin,2023-07-06
+1104,joint pain inflammation,Ibuprofen,2023-10-31
+1105,high cholesterol risk,Atorvastatin,2023-12-16
+1106,high cholesterol risk,Atorvastatin,2024-05-02
+1107,diabetes frequent urination,Metformin,2023-04-18
+1108,type2 diabetes high sugar,Metformin,2024-03-01
+1109,injury swelling pain,Ibuprofen,2023-12-11
+1110,high blood sugar fatigue,Metformin,2023-11-21
+1111,chest infection cough fever,Azithromycin,2023-05-10
+1112,allergic rash itching,Cetirizine,2024-02-09
+1113,acid reflux stomach burn,Pantoprazole,2023-08-18
+1114,flu fever headache,Dolo650,2023-10-26
+1115,acidic stomach discomfort,Pantoprazole,2023-09-17
+1116,acidic stomach discomfort,Pantoprazole,2023-01-19
+1117,loose motion dehydration,ORS,2024-04-03
+1118,lipid disorder treatment,Atorvastatin,2023-11-23
+1119,muscle pain swelling,Ibuprofen,2024-01-29
+1120,sinus infection pressure pain,Amoxicillin,2023-12-07
+1121,dehydration diarrhea,ORS,2023-11-28
+1122,high fever body pain,Dolo650,2023-10-16
+1123,gastritis stomach pain,Pantoprazole,2024-05-09
+1124,acid reflux stomach burn,Pantoprazole,2023-01-06
+1125,back pain muscle pain,Ibuprofen,2023-04-24
+1126,lipid disorder treatment,Atorvastatin,2023-09-23
+1127,lipid disorder treatment,Atorvastatin,2023-12-19
+1128,high fever body pain,Dolo650,2023-08-17
+1129,vomiting dehydration weakness,ORS,2023-08-26
+1130,viral fever body pain,Dolo650,2023-09-14
+1131,sneezing watery eyes,Cetirizine,2023-01-13
+1132,high blood sugar fatigue,Metformin,2023-06-01
+1133,acid reflux stomach burn,Pantoprazole,2023-03-01
+1134,sneezing watery eyes,Cetirizine,2023-06-09
+1135,vomiting dehydration weakness,ORS,2024-02-06
+1136,sinus infection pressure pain,Amoxicillin,2023-09-05
+1137,vomiting dehydration weakness,ORS,2023-02-19
+1138,diabetes frequent urination,Metformin,2023-12-23
+1139,type2 diabetes high sugar,Metformin,2023-02-04
+1140,chest infection cough fever,Azithromycin,2024-02-19
+1141,muscle pain swelling,Ibuprofen,2024-03-10
+1142,loose motion dehydration,ORS,2023-02-25
+1143,runny nose allergy,Cetirizine,2023-09-22
+1144,runny nose allergy,Cetirizine,2023-06-19
+1145,cholesterol management,Atorvastatin,2024-05-05
+1146,high blood sugar fatigue,Metformin,2024-02-13
+1147,acidic stomach discomfort,Pantoprazole,2023-04-05
+1148,allergic rash itching,Cetirizine,2023-07-22
+1149,viral fever,Paracetamol,2024-03-28
+1150,ear infection pain fever,Amoxicillin,2023-10-31
+1151,gastritis stomach pain,Pantoprazole,2023-01-03
+1152,bacterial infection throat pain,Amoxicillin,2023-05-23
+1153,muscle pain swelling,Ibuprofen,2024-02-14
+1154,high cholesterol risk,Atorvastatin,2023-07-07
+1155,dehydration diarrhea,ORS,2023-08-23
+1156,back pain muscle pain,Ibuprofen,2023-12-10
+1157,diabetes frequent urination,Metformin,2024-05-09
+1158,loose motion dehydration,ORS,2023-07-18
+1159,flu fever headache,Dolo650,2023-10-28
+1160,back pain muscle pain,Ibuprofen,2023-06-30
+1161,diabetes frequent urination,Metformin,2023-03-30
+1162,respiratory infection cough,Azithromycin,2023-10-30
+1163,joint pain inflammation,Ibuprofen,2023-06-10
+1164,joint pain inflammation,Ibuprofen,2023-06-06
+1165,joint pain inflammation,Ibuprofen,2023-07-11
+1166,allergic rash itching,Cetirizine,2023-08-03
+1167,high fever body pain,Dolo650,2023-10-22
+1168,gastritis stomach pain,Pantoprazole,2023-04-06
+1169,diabetes frequent urination,Metformin,2023-10-03
+1170,runny nose allergy,Cetirizine,2023-09-08
+1171,chest infection cough fever,Azithromycin,2023-04-06
+1172,vomiting dehydration weakness,ORS,2023-11-14
+1173,mild fever headache,Paracetamol,2024-05-02
+1174,cough fever headache,Paracetamol,2023-03-11
+1175,ear infection pain fever,Amoxicillin,2024-05-08
+1176,lipid disorder treatment,Atorvastatin,2023-12-01
+1177,type2 diabetes high sugar,Metformin,2023-12-17
+1178,type2 diabetes high sugar,Metformin,2023-12-30
+1179,type2 diabetes high sugar,Metformin,2023-03-27
+1180,muscle pain swelling,Ibuprofen,2024-02-12
+1181,ear infection pain fever,Amoxicillin,2023-01-17
+1182,chest infection cough fever,Azithromycin,2023-10-03
+1183,chest infection cough fever,Azithromycin,2024-02-04
+1184,diabetes frequent urination,Metformin,2024-01-16
+1185,diabetes frequent urination,Metformin,2023-09-19
+1186,muscle pain swelling,Ibuprofen,2023-05-18
+1187,cholesterol management,Atorvastatin,2023-10-05
+1188,cough fever headache,Paracetamol,2023-10-07
+1189,ear infection pain fever,Amoxicillin,2023-02-22
+1190,ear infection pain fever,Amoxicillin,2024-03-23
+1191,cough fever headache,Paracetamol,2023-05-15
+1192,dehydration diarrhea,ORS,2023-08-13
+1193,joint pain inflammation,Ibuprofen,2023-04-18
+1194,viral fever body pain,Dolo650,2023-06-29
+1195,viral fever body pain,Dolo650,2023-08-08
+1196,runny nose allergy,Cetirizine,2024-02-06
+1197,bacterial infection throat pain,Amoxicillin,2024-02-17
+1198,viral fever,Paracetamol,2023-06-29
+1199,cholesterol management,Atorvastatin,2023-11-02
+1200,high cholesterol risk,Atorvastatin,2023-06-15
+1201,severe throat infection,Azithromycin,2023-10-21
+1202,respiratory infection cough,Azithromycin,2024-04-05
+1203,joint pain inflammation,Ibuprofen,2024-05-07
+1204,acid reflux stomach burn,Pantoprazole,2023-05-22
+1205,runny nose allergy,Cetirizine,2023-05-08
+1206,sneezing watery eyes,Cetirizine,2024-02-29
+1207,sinus infection pressure pain,Amoxicillin,2023-07-21
+1208,high blood sugar fatigue,Metformin,2023-10-23
+1209,respiratory infection cough,Azithromycin,2023-08-01
+1210,gastritis stomach pain,Pantoprazole,2023-02-08
+1211,injury swelling pain,Ibuprofen,2023-09-21
+1212,respiratory infection cough,Azithromycin,2024-04-24
+1213,vomiting dehydration weakness,ORS,2024-05-01
+1214,type2 diabetes high sugar,Metformin,2023-10-25
+1215,fever headache,Paracetamol,2024-01-10
+1216,diabetes frequent urination,Metformin,2023-12-07
+1217,dehydration diarrhea,ORS,2024-02-12
+1218,cholesterol management,Atorvastatin,2023-04-22
+1219,acid reflux stomach burn,Pantoprazole,2023-09-11
+1220,severe throat infection,Azithromycin,2024-02-29
+1221,severe throat infection,Azithromycin,2023-10-08
+1222,high fever body pain,Dolo650,2023-10-17
+1223,type2 diabetes high sugar,Metformin,2024-04-02
+1224,fever headache,Paracetamol,2023-02-20
+1225,high blood sugar fatigue,Metformin,2023-03-05
+1226,allergic rash itching,Cetirizine,2023-08-22
+1227,cough fever headache,Paracetamol,2023-04-14
+1228,sneezing watery eyes,Cetirizine,2023-03-23
+1229,chest infection cough fever,Azithromycin,2023-12-02
+1230,vomiting dehydration weakness,ORS,2023-02-12
+1231,loose motion dehydration,ORS,2024-04-07
+1232,allergy sneezing itching,Cetirizine,2023-07-22
+1233,respiratory infection cough,Azithromycin,2023-12-25
+1234,ear infection pain fever,Amoxicillin,2023-12-02
+1235,muscle pain swelling,Ibuprofen,2023-01-01
+1236,ear infection pain fever,Amoxicillin,2023-02-09
+1237,runny nose allergy,Cetirizine,2023-09-23
+1238,high blood sugar fatigue,Metformin,2023-01-05
+1239,dehydration diarrhea,ORS,2024-03-16
+1240,acidic stomach discomfort,Pantoprazole,2023-03-09
+1241,high blood sugar fatigue,Metformin,2023-04-28
+1242,acid reflux stomach burn,Pantoprazole,2024-01-10
+1243,muscle pain swelling,Ibuprofen,2023-06-10
+1244,vomiting dehydration weakness,ORS,2023-03-12
+1245,acid reflux stomach burn,Pantoprazole,2023-11-25
+1246,allergy sneezing itching,Cetirizine,2023-09-29
+1247,high fever body pain,Dolo650,2023-11-09
+1248,allergic rash itching,Cetirizine,2023-06-29
+1249,sinus infection pressure pain,Amoxicillin,2024-01-19
+1250,allergic rash itching,Cetirizine,2023-11-12
+1251,high blood sugar fatigue,Metformin,2023-02-14
+1252,joint pain inflammation,Ibuprofen,2024-01-21
+1253,injury swelling pain,Ibuprofen,2023-06-29
+1254,gastritis stomach pain,Pantoprazole,2024-02-10
+1255,runny nose allergy,Cetirizine,2023-05-22
+1256,joint pain inflammation,Ibuprofen,2023-10-11
+1257,viral fever body pain,Dolo650,2024-01-05
+1258,flu fever headache,Dolo650,2024-02-03
+1259,mild fever headache,Paracetamol,2023-04-16
+1260,lipid disorder treatment,Atorvastatin,2023-09-18
+1261,sinus infection pressure pain,Amoxicillin,2023-07-20
+1262,respiratory infection cough,Azithromycin,2023-01-28
+1263,ear infection pain fever,Amoxicillin,2023-07-17
+1264,joint pain inflammation,Ibuprofen,2023-09-13
+1265,high fever body pain,Dolo650,2023-09-28
+1266,mild fever headache,Paracetamol,2024-04-23
+1267,dehydration diarrhea,ORS,2023-07-18
+1268,flu fever headache,Dolo650,2023-07-07
+1269,lipid disorder treatment,Atorvastatin,2023-03-30
+1270,high blood sugar fatigue,Metformin,2023-01-09
+1271,high fever body pain,Dolo650,2023-01-08
+1272,chest infection cough fever,Azithromycin,2023-01-21
+1273,cough fever headache,Paracetamol,2023-09-17
+1274,respiratory infection cough,Azithromycin,2023-12-31
+1275,cholesterol management,Atorvastatin,2023-08-05
+1276,acid reflux stomach burn,Pantoprazole,2023-11-24
+1277,lipid disorder treatment,Atorvastatin,2023-11-12
+1278,sneezing watery eyes,Cetirizine,2023-02-12
+1279,chest infection cough fever,Azithromycin,2023-09-19
+1280,bacterial infection throat pain,Amoxicillin,2023-10-02
+1281,vomiting dehydration weakness,ORS,2023-10-28
+1282,back pain muscle pain,Ibuprofen,2023-12-24
+1283,acidic stomach discomfort,Pantoprazole,2024-05-03
+1284,bacterial infection throat pain,Amoxicillin,2023-05-06
+1285,injury swelling pain,Ibuprofen,2023-03-01
+1286,diabetes frequent urination,Metformin,2023-11-08
+1287,mild fever headache,Paracetamol,2023-12-08
+1288,allergy sneezing itching,Cetirizine,2023-01-07
+1289,allergy sneezing itching,Cetirizine,2023-03-25
+1290,type2 diabetes high sugar,Metformin,2023-09-25
+1291,lipid disorder treatment,Atorvastatin,2023-05-13
+1292,sneezing watery eyes,Cetirizine,2023-03-06
+1293,respiratory infection cough,Azithromycin,2024-03-29
+1294,muscle pain swelling,Ibuprofen,2023-06-21
+1295,gastritis stomach pain,Pantoprazole,2023-09-26
+1296,back pain muscle pain,Ibuprofen,2023-12-31
+1297,viral fever body pain,Dolo650,2023-02-09
+1298,type2 diabetes high sugar,Metformin,2023-09-19
+1299,dehydration diarrhea,ORS,2023-09-13
+1300,high fever body pain,Dolo650,2023-07-08
+1301,sneezing watery eyes,Cetirizine,2024-01-31
+1302,muscle pain swelling,Ibuprofen,2023-04-27
+1303,high cholesterol risk,Atorvastatin,2023-01-23
+1304,fever body pain,Paracetamol,2023-01-24
+1305,type2 diabetes high sugar,Metformin,2023-07-16
+1306,runny nose allergy,Cetirizine,2024-04-21
+1307,viral fever,Paracetamol,2024-02-16
+1308,acid reflux stomach burn,Pantoprazole,2023-06-14
+1309,ear infection pain fever,Amoxicillin,2024-04-13
+1310,vomiting dehydration weakness,ORS,2024-02-27
+1311,back pain muscle pain,Ibuprofen,2023-03-03
+1312,lipid disorder treatment,Atorvastatin,2024-04-06
+1313,fever body pain,Paracetamol,2023-04-25
+1314,high cholesterol risk,Atorvastatin,2024-05-03
+1315,acid reflux stomach burn,Pantoprazole,2024-03-25
+1316,type2 diabetes high sugar,Metformin,2024-02-01
+1317,severe throat infection,Azithromycin,2023-02-14
+1318,cholesterol management,Atorvastatin,2023-01-05
+1319,dehydration diarrhea,ORS,2023-05-30
+1320,flu fever headache,Dolo650,2024-01-14
+1321,high fever body pain,Dolo650,2023-08-26
+1322,loose motion dehydration,ORS,2024-05-12
+1323,high blood sugar fatigue,Metformin,2024-01-11
+1324,high cholesterol risk,Atorvastatin,2023-03-19
+1325,cough fever headache,Paracetamol,2023-01-13
+1326,sinus infection pressure pain,Amoxicillin,2023-06-27
+1327,mild fever headache,Paracetamol,2023-01-01
+1328,acidic stomach discomfort,Pantoprazole,2024-01-08
+1329,chest infection cough fever,Azithromycin,2023-04-16
+1330,high cholesterol risk,Atorvastatin,2023-08-03
+1331,high blood sugar fatigue,Metformin,2024-05-12
+1332,sneezing watery eyes,Cetirizine,2023-02-17
+1333,fever body pain,Paracetamol,2024-04-04
+1334,cholesterol management,Atorvastatin,2023-12-25
+1335,vomiting dehydration weakness,ORS,2024-05-13
+1336,muscle pain swelling,Ibuprofen,2023-09-16
+1337,allergic rash itching,Cetirizine,2023-02-08
+1338,viral fever body pain,Dolo650,2023-02-01
+1339,acidic stomach discomfort,Pantoprazole,2024-05-08
+1340,runny nose allergy,Cetirizine,2023-05-30
+1341,severe throat infection,Azithromycin,2024-04-19
+1342,acidic stomach discomfort,Pantoprazole,2024-03-01
+1343,vomiting dehydration weakness,ORS,2023-08-20
+1344,chest infection cough fever,Azithromycin,2023-02-08
+1345,bacterial infection throat pain,Amoxicillin,2024-02-04
+1346,high fever body pain,Dolo650,2023-03-21
+1347,joint pain inflammation,Ibuprofen,2023-08-19
+1348,type2 diabetes high sugar,Metformin,2023-07-28
+1349,back pain muscle pain,Ibuprofen,2024-05-08
+1350,ear infection pain fever,Amoxicillin,2023-06-07
+1351,type2 diabetes high sugar,Metformin,2024-03-12
+1352,muscle pain swelling,Ibuprofen,2023-03-22
+1353,respiratory infection cough,Azithromycin,2023-12-23
+1354,high fever body pain,Dolo650,2023-04-21
+1355,dehydration diarrhea,ORS,2023-02-16
+1356,ear infection pain fever,Amoxicillin,2023-07-22
+1357,high cholesterol risk,Atorvastatin,2023-12-13
+1358,severe throat infection,Azithromycin,2024-02-24
+1359,allergy sneezing itching,Cetirizine,2024-05-02
+1360,gastritis stomach pain,Pantoprazole,2023-10-12
+1361,high cholesterol risk,Atorvastatin,2023-02-18
+1362,high blood sugar fatigue,Metformin,2024-02-16
+1363,allergy sneezing itching,Cetirizine,2023-01-07
+1364,fever body pain,Paracetamol,2023-03-08
+1365,ear infection pain fever,Amoxicillin,2023-07-10
+1366,back pain muscle pain,Ibuprofen,2024-04-14
+1367,muscle pain swelling,Ibuprofen,2023-02-03
+1368,sinus infection pressure pain,Amoxicillin,2023-08-16
+1369,allergy sneezing itching,Cetirizine,2024-04-08
+1370,dehydration diarrhea,ORS,2023-01-22
+1371,high blood sugar fatigue,Metformin,2023-03-28
+1372,flu fever headache,Dolo650,2024-02-25
+1373,gastritis stomach pain,Pantoprazole,2023-01-16
+1374,acidic stomach discomfort,Pantoprazole,2023-08-07
+1375,sneezing watery eyes,Cetirizine,2023-04-20
+1376,sneezing watery eyes,Cetirizine,2023-05-24
+1377,high blood sugar fatigue,Metformin,2023-01-18
+1378,viral fever body pain,Dolo650,2023-11-12
+1379,sinus infection pressure pain,Amoxicillin,2023-06-01
+1380,type2 diabetes high sugar,Metformin,2024-03-27
+1381,cholesterol management,Atorvastatin,2023-02-01
+1382,back pain muscle pain,Ibuprofen,2023-07-16
+1383,allergic rash itching,Cetirizine,2023-04-13
+1384,high cholesterol risk,Atorvastatin,2023-11-19
+1385,high cholesterol risk,Atorvastatin,2023-07-15
+1386,vomiting dehydration weakness,ORS,2023-10-06
+1387,type2 diabetes high sugar,Metformin,2024-04-12
+1388,viral fever body pain,Dolo650,2023-06-14
+1389,gastritis stomach pain,Pantoprazole,2023-04-03
+1390,mild fever headache,Paracetamol,2023-11-02
+1391,bacterial infection throat pain,Amoxicillin,2024-04-03
+1392,chest infection cough fever,Azithromycin,2024-02-19
+1393,diabetes frequent urination,Metformin,2023-07-03
+1394,high fever body pain,Dolo650,2024-05-13
+1395,allergy sneezing itching,Cetirizine,2023-05-07
+1396,ear infection pain fever,Amoxicillin,2023-10-01
+1397,fever body pain,Paracetamol,2023-10-22
+1398,gastritis stomach pain,Pantoprazole,2024-04-23
+1399,runny nose allergy,Cetirizine,2023-05-02
+1400,flu fever headache,Dolo650,2024-02-17
+1401,loose motion dehydration,ORS,2023-01-15
+1402,loose motion dehydration,ORS,2023-10-16
+1403,runny nose allergy,Cetirizine,2024-03-04
+1404,diabetes frequent urination,Metformin,2023-06-08
+1405,allergic rash itching,Cetirizine,2023-01-20
+1406,muscle pain swelling,Ibuprofen,2023-04-30
+1407,high fever body pain,Dolo650,2023-01-11
+1408,cholesterol management,Atorvastatin,2023-01-01
+1409,loose motion dehydration,ORS,2023-04-14
+1410,sneezing watery eyes,Cetirizine,2024-01-03
+1411,sneezing watery eyes,Cetirizine,2023-01-31
+1412,fever body pain,Paracetamol,2023-10-28
+1413,allergy sneezing itching,Cetirizine,2024-03-09
+1414,cholesterol management,Atorvastatin,2024-05-06
+1415,back pain muscle pain,Ibuprofen,2023-12-27
+1416,acidic stomach discomfort,Pantoprazole,2023-02-21
+1417,vomiting dehydration weakness,ORS,2023-06-15
+1418,runny nose allergy,Cetirizine,2024-01-10
+1419,acidic stomach discomfort,Pantoprazole,2024-05-06
+1420,diabetes frequent urination,Metformin,2023-06-12
+1421,sneezing watery eyes,Cetirizine,2023-04-25
+1422,high fever body pain,Dolo650,2023-07-13
+1423,respiratory infection cough,Azithromycin,2023-12-19
+1424,chest infection cough fever,Azithromycin,2023-04-01
+1425,viral fever,Paracetamol,2023-07-20
+1426,high fever body pain,Dolo650,2023-04-04
+1427,flu fever headache,Dolo650,2024-04-16
+1428,high fever body pain,Dolo650,2023-11-24
+1429,high fever body pain,Dolo650,2024-04-24
+1430,high blood sugar fatigue,Metformin,2023-06-19
+1431,joint pain inflammation,Ibuprofen,2023-06-27
+1432,dehydration diarrhea,ORS,2023-11-22
+1433,back pain muscle pain,Ibuprofen,2023-08-17
+1434,mild fever headache,Paracetamol,2023-04-18
+1435,sinus infection pressure pain,Amoxicillin,2023-02-04
+1436,vomiting dehydration weakness,ORS,2024-02-07
+1437,muscle pain swelling,Ibuprofen,2023-01-25
+1438,gastritis stomach pain,Pantoprazole,2024-01-11
+1439,acid reflux stomach burn,Pantoprazole,2024-03-28
+1440,gastritis stomach pain,Pantoprazole,2024-03-27
+1441,gastritis stomach pain,Pantoprazole,2023-10-07
+1442,acid reflux stomach burn,Pantoprazole,2024-02-29
+1443,diabetes frequent urination,Metformin,2023-11-30
+1444,bacterial infection throat pain,Amoxicillin,2023-08-20
+1445,muscle pain swelling,Ibuprofen,2023-05-31
+1446,mild fever headache,Paracetamol,2023-05-14
+1447,muscle pain swelling,Ibuprofen,2023-06-25
+1448,allergic rash itching,Cetirizine,2023-03-24
+1449,muscle pain swelling,Ibuprofen,2023-06-23
+1450,viral fever body pain,Dolo650,2024-04-02
+1451,diabetes frequent urination,Metformin,2023-01-16
+1452,acidic stomach discomfort,Pantoprazole,2023-03-26
+1453,flu fever headache,Dolo650,2023-03-22
+1454,fever headache,Paracetamol,2023-06-19
+1455,bacterial infection throat pain,Amoxicillin,2023-07-29
+1456,lipid disorder treatment,Atorvastatin,2024-04-18
+1457,cholesterol management,Atorvastatin,2023-12-05
+1458,severe throat infection,Azithromycin,2023-05-02
+1459,muscle pain swelling,Ibuprofen,2023-07-21
+1460,viral fever body pain,Dolo650,2024-03-06
+1461,high blood sugar fatigue,Metformin,2023-01-28
+1462,dehydration diarrhea,ORS,2023-08-07
+1463,back pain muscle pain,Ibuprofen,2024-02-26
+1464,flu fever headache,Dolo650,2023-04-13
+1465,muscle pain swelling,Ibuprofen,2023-04-16
+1466,sneezing watery eyes,Cetirizine,2024-05-15
+1467,injury swelling pain,Ibuprofen,2024-03-08
+1468,back pain muscle pain,Ibuprofen,2024-02-06
+1469,gastritis stomach pain,Pantoprazole,2023-09-08
+1470,chest infection cough fever,Azithromycin,2023-11-25
+1471,cholesterol management,Atorvastatin,2023-04-05
+1472,vomiting dehydration weakness,ORS,2023-07-09
+1473,allergic rash itching,Cetirizine,2023-01-23
+1474,severe throat infection,Azithromycin,2023-08-27
+1475,chest infection cough fever,Azithromycin,2024-03-04
+1476,respiratory infection cough,Azithromycin,2023-02-01
+1477,allergy sneezing itching,Cetirizine,2023-02-13
+1478,loose motion dehydration,ORS,2023-07-31
+1479,high fever body pain,Dolo650,2023-10-11
+1480,cough fever headache,Paracetamol,2024-02-24
+1481,cholesterol management,Atorvastatin,2024-05-09
+1482,lipid disorder treatment,Atorvastatin,2024-03-19
+1483,diabetes frequent urination,Metformin,2024-03-27
+1484,ear infection pain fever,Amoxicillin,2023-06-03
+1485,injury swelling pain,Ibuprofen,2024-04-07
+1486,viral fever,Paracetamol,2023-10-20
+1487,lipid disorder treatment,Atorvastatin,2023-12-13
+1488,high fever body pain,Dolo650,2023-03-03
+1489,high blood sugar fatigue,Metformin,2024-04-30
+1490,runny nose allergy,Cetirizine,2024-02-18
+1491,bacterial infection throat pain,Amoxicillin,2023-01-22
+1492,acid reflux stomach burn,Pantoprazole,2023-12-16
+1493,acid reflux stomach burn,Pantoprazole,2024-02-26
+1494,sneezing watery eyes,Cetirizine,2023-06-13
+1495,muscle pain swelling,Ibuprofen,2023-07-18
+1496,cholesterol management,Atorvastatin,2023-10-10
+1497,vomiting dehydration weakness,ORS,2023-09-24
+1498,high blood sugar fatigue,Metformin,2024-02-07
+1499,viral fever body pain,Dolo650,2023-09-25
+1500,acid reflux stomach burn,Pantoprazole,2023-08-01
+1501,runny nose allergy,Cetirizine,2023-10-18
+1502,viral fever body pain,Dolo650,2024-01-24
+1503,muscle pain swelling,Ibuprofen,2023-10-16
+1504,back pain muscle pain,Ibuprofen,2024-03-20
+1505,cholesterol management,Atorvastatin,2024-03-25
+1506,gastritis stomach pain,Pantoprazole,2023-07-16
+1507,diabetes frequent urination,Metformin,2023-11-08
+1508,high blood sugar fatigue,Metformin,2023-03-30
+1509,severe throat infection,Azithromycin,2023-03-15
+1510,viral fever body pain,Dolo650,2023-12-15
+1511,acid reflux stomach burn,Pantoprazole,2023-07-22
+1512,loose motion dehydration,ORS,2023-05-02
+1513,cough fever headache,Paracetamol,2024-04-16
+1514,severe throat infection,Azithromycin,2023-01-11
+1515,vomiting dehydration weakness,ORS,2023-06-09
+1516,severe throat infection,Azithromycin,2024-03-15
+1517,joint pain inflammation,Ibuprofen,2023-03-10
+1518,respiratory infection cough,Azithromycin,2023-08-15
+1519,vomiting dehydration weakness,ORS,2024-01-09
+1520,acidic stomach discomfort,Pantoprazole,2023-11-27
+1521,joint pain inflammation,Ibuprofen,2023-08-15
+1522,ear infection pain fever,Amoxicillin,2024-01-15
+1523,diabetes frequent urination,Metformin,2024-03-20
+1524,dehydration diarrhea,ORS,2023-09-21
+1525,allergy sneezing itching,Cetirizine,2023-06-09
+1526,cholesterol management,Atorvastatin,2023-03-11
+1527,lipid disorder treatment,Atorvastatin,2023-01-15
+1528,runny nose allergy,Cetirizine,2024-03-24
+1529,bacterial infection throat pain,Amoxicillin,2023-05-08
+1530,cough fever headache,Paracetamol,2023-01-26
+1531,loose motion dehydration,ORS,2023-04-12
+1532,severe throat infection,Azithromycin,2024-02-26
+1533,diabetes frequent urination,Metformin,2023-07-23
+1534,muscle pain swelling,Ibuprofen,2023-05-04
+1535,vomiting dehydration weakness,ORS,2023-11-01
+1536,high blood sugar fatigue,Metformin,2024-05-06
+1537,diabetes frequent urination,Metformin,2023-10-10
+1538,vomiting dehydration weakness,ORS,2023-03-25
+1539,respiratory infection cough,Azithromycin,2024-03-01
+1540,back pain muscle pain,Ibuprofen,2023-01-15
+1541,acid reflux stomach burn,Pantoprazole,2023-03-25
+1542,high fever body pain,Dolo650,2024-03-14
+1543,sinus infection pressure pain,Amoxicillin,2023-04-26
+1544,ear infection pain fever,Amoxicillin,2023-11-30
+1545,acidic stomach discomfort,Pantoprazole,2023-01-11
+1546,cough fever headache,Paracetamol,2024-04-11
+1547,runny nose allergy,Cetirizine,2023-11-04
+1548,fever body pain,Paracetamol,2023-05-10
+1549,flu fever headache,Dolo650,2023-12-31
+1550,severe throat infection,Azithromycin,2024-04-03
+1551,gastritis stomach pain,Pantoprazole,2023-08-24
+1552,chest infection cough fever,Azithromycin,2023-08-27
+1553,respiratory infection cough,Azithromycin,2023-09-24
+1554,flu fever headache,Dolo650,2023-10-27
+1555,muscle pain swelling,Ibuprofen,2023-09-19
+1556,loose motion dehydration,ORS,2023-11-28
+1557,viral fever body pain,Dolo650,2023-05-25
+1558,respiratory infection cough,Azithromycin,2023-02-25
+1559,high blood sugar fatigue,Metformin,2023-06-22
+1560,respiratory infection cough,Azithromycin,2023-06-16
+1561,severe throat infection,Azithromycin,2023-12-02
+1562,chest infection cough fever,Azithromycin,2023-03-18
+1563,high cholesterol risk,Atorvastatin,2024-04-05
+1564,viral fever,Paracetamol,2023-07-26
+1565,loose motion dehydration,ORS,2023-03-13
+1566,cough fever headache,Paracetamol,2023-06-01
+1567,severe throat infection,Azithromycin,2023-07-27
+1568,acidic stomach discomfort,Pantoprazole,2023-01-19
+1569,viral fever body pain,Dolo650,2023-10-20
+1570,ear infection pain fever,Amoxicillin,2024-01-07
+1571,sinus infection pressure pain,Amoxicillin,2023-10-01
+1572,diabetes frequent urination,Metformin,2023-07-03
+1573,cholesterol management,Atorvastatin,2024-03-08
+1574,runny nose allergy,Cetirizine,2023-05-31
+1575,injury swelling pain,Ibuprofen,2023-03-07
+1576,respiratory infection cough,Azithromycin,2024-02-18
+1577,high cholesterol risk,Atorvastatin,2024-04-29
+1578,loose motion dehydration,ORS,2023-02-15
+1579,ear infection pain fever,Amoxicillin,2023-04-25
+1580,severe throat infection,Azithromycin,2024-02-08
+1581,vomiting dehydration weakness,ORS,2023-05-14
+1582,flu fever headache,Dolo650,2023-08-26
+1583,injury swelling pain,Ibuprofen,2023-01-28
+1584,viral fever body pain,Dolo650,2024-04-28
+1585,high fever body pain,Dolo650,2023-08-30
+1586,sinus infection pressure pain,Amoxicillin,2023-03-03
+1587,acidic stomach discomfort,Pantoprazole,2023-06-02
+1588,acid reflux stomach burn,Pantoprazole,2024-03-21
+1589,runny nose allergy,Cetirizine,2023-04-13
+1590,vomiting dehydration weakness,ORS,2023-10-19
+1591,high blood sugar fatigue,Metformin,2023-06-11
+1592,allergy sneezing itching,Cetirizine,2023-09-07
+1593,loose motion dehydration,ORS,2023-04-01
+1594,loose motion dehydration,ORS,2023-01-30
+1595,cough fever headache,Paracetamol,2023-05-21
+1596,bacterial infection throat pain,Amoxicillin,2023-10-23
+1597,allergic rash itching,Cetirizine,2024-02-07
+1598,joint pain inflammation,Ibuprofen,2023-11-11
+1599,acidic stomach discomfort,Pantoprazole,2023-08-08
+1600,gastritis stomach pain,Pantoprazole,2024-05-09
+1601,type2 diabetes high sugar,Metformin,2023-01-03
+1602,viral fever,Paracetamol,2023-04-13
+1603,dehydration diarrhea,ORS,2024-04-01
+1604,loose motion dehydration,ORS,2023-04-08
+1605,fever headache,Paracetamol,2023-11-17
+1606,bacterial infection throat pain,Amoxicillin,2023-12-22
+1607,vomiting dehydration weakness,ORS,2023-03-08
+1608,injury swelling pain,Ibuprofen,2023-09-15
+1609,flu fever headache,Dolo650,2023-03-27
+1610,muscle pain swelling,Ibuprofen,2023-06-02
+1611,severe throat infection,Azithromycin,2024-01-08
+1612,lipid disorder treatment,Atorvastatin,2023-09-26
+1613,vomiting dehydration weakness,ORS,2024-03-30
+1614,sneezing watery eyes,Cetirizine,2024-04-06
+1615,type2 diabetes high sugar,Metformin,2024-01-20
+1616,bacterial infection throat pain,Amoxicillin,2024-04-30
+1617,acid reflux stomach burn,Pantoprazole,2023-04-27
+1618,sinus infection pressure pain,Amoxicillin,2023-03-09
+1619,sinus infection pressure pain,Amoxicillin,2023-01-12
+1620,viral fever body pain,Dolo650,2023-03-28
+1621,back pain muscle pain,Ibuprofen,2023-12-31
+1622,cough fever headache,Paracetamol,2024-03-24
+1623,respiratory infection cough,Azithromycin,2023-11-16
+1624,viral fever,Paracetamol,2023-01-25
+1625,muscle pain swelling,Ibuprofen,2023-01-25
+1626,injury swelling pain,Ibuprofen,2023-08-16
+1627,acid reflux stomach burn,Pantoprazole,2023-10-08
+1628,severe throat infection,Azithromycin,2023-12-26
+1629,runny nose allergy,Cetirizine,2023-12-22
+1630,mild fever headache,Paracetamol,2023-08-04
+1631,back pain muscle pain,Ibuprofen,2023-11-15
+1632,viral fever body pain,Dolo650,2023-03-12
+1633,acid reflux stomach burn,Pantoprazole,2023-09-19
+1634,high fever body pain,Dolo650,2023-05-25
+1635,muscle pain swelling,Ibuprofen,2023-09-12
+1636,sinus infection pressure pain,Amoxicillin,2023-04-13
+1637,respiratory infection cough,Azithromycin,2024-05-13
+1638,ear infection pain fever,Amoxicillin,2023-12-27
+1639,gastritis stomach pain,Pantoprazole,2023-03-24
+1640,viral fever,Paracetamol,2023-09-12
+1641,sinus infection pressure pain,Amoxicillin,2024-04-22
+1642,type2 diabetes high sugar,Metformin,2023-05-01
+1643,fever headache,Paracetamol,2023-12-10
+1644,muscle pain swelling,Ibuprofen,2024-03-03
+1645,viral fever body pain,Dolo650,2023-09-10
+1646,allergy sneezing itching,Cetirizine,2024-02-04
+1647,high cholesterol risk,Atorvastatin,2024-01-06
+1648,back pain muscle pain,Ibuprofen,2023-11-26
+1649,ear infection pain fever,Amoxicillin,2024-05-15
+1650,severe throat infection,Azithromycin,2023-08-26
+1651,fever headache,Paracetamol,2024-02-21
+1652,allergy sneezing itching,Cetirizine,2024-03-12
+1653,severe throat infection,Azithromycin,2024-02-15
+1654,vomiting dehydration weakness,ORS,2024-01-14
+1655,muscle pain swelling,Ibuprofen,2024-03-11
+1656,fever headache,Paracetamol,2024-03-12
+1657,runny nose allergy,Cetirizine,2023-06-18
+1658,vomiting dehydration weakness,ORS,2024-05-04
+1659,flu fever headache,Dolo650,2024-03-25
+1660,back pain muscle pain,Ibuprofen,2024-02-22
+1661,dehydration diarrhea,ORS,2023-02-28
+1662,gastritis stomach pain,Pantoprazole,2024-05-07
+1663,type2 diabetes high sugar,Metformin,2024-03-03
+1664,acidic stomach discomfort,Pantoprazole,2024-03-11
+1665,type2 diabetes high sugar,Metformin,2023-11-29
+1666,allergy sneezing itching,Cetirizine,2023-03-09
+1667,fever body pain,Paracetamol,2023-02-23
+1668,acidic stomach discomfort,Pantoprazole,2023-09-05
+1669,viral fever body pain,Dolo650,2023-08-13
+1670,allergic rash itching,Cetirizine,2024-02-03
+1671,loose motion dehydration,ORS,2023-01-15
+1672,allergic rash itching,Cetirizine,2024-04-16
+1673,high blood sugar fatigue,Metformin,2024-03-30
+1674,gastritis stomach pain,Pantoprazole,2023-01-24
+1675,back pain muscle pain,Ibuprofen,2023-12-02
+1676,dehydration diarrhea,ORS,2023-12-27
+1677,lipid disorder treatment,Atorvastatin,2023-10-23
+1678,high fever body pain,Dolo650,2024-05-15
+1679,loose motion dehydration,ORS,2023-09-25
+1680,high fever body pain,Dolo650,2023-08-10
+1681,ear infection pain fever,Amoxicillin,2023-06-27
+1682,acid reflux stomach burn,Pantoprazole,2024-03-05
+1683,lipid disorder treatment,Atorvastatin,2023-01-28
+1684,fever body pain,Paracetamol,2023-09-16
+1685,type2 diabetes high sugar,Metformin,2024-03-21
+1686,allergy sneezing itching,Cetirizine,2024-01-20
+1687,type2 diabetes high sugar,Metformin,2023-05-04
+1688,vomiting dehydration weakness,ORS,2023-01-26
+1689,high cholesterol risk,Atorvastatin,2023-10-09
+1690,gastritis stomach pain,Pantoprazole,2024-02-23
+1691,bacterial infection throat pain,Amoxicillin,2023-08-24
+1692,diabetes frequent urination,Metformin,2023-08-18
+1693,injury swelling pain,Ibuprofen,2023-08-17
+1694,dehydration diarrhea,ORS,2023-09-12
+1695,fever headache,Paracetamol,2023-07-26
+1696,acid reflux stomach burn,Pantoprazole,2023-10-13
+1697,high cholesterol risk,Atorvastatin,2024-02-27
+1698,back pain muscle pain,Ibuprofen,2024-03-31
+1699,lipid disorder treatment,Atorvastatin,2023-04-16
+1700,type2 diabetes high sugar,Metformin,2023-07-06
+1701,fever body pain,Paracetamol,2024-03-08
+1702,type2 diabetes high sugar,Metformin,2023-10-14
+1703,viral fever body pain,Dolo650,2023-08-31
+1704,loose motion dehydration,ORS,2023-08-20
+1705,muscle pain swelling,Ibuprofen,2024-01-24
+1706,bacterial infection throat pain,Amoxicillin,2023-06-24
+1707,loose motion dehydration,ORS,2024-05-08
+1708,respiratory infection cough,Azithromycin,2023-09-25
+1709,loose motion dehydration,ORS,2023-02-24
+1710,fever body pain,Paracetamol,2023-09-10
+1711,allergic rash itching,Cetirizine,2023-02-24
+1712,respiratory infection cough,Azithromycin,2023-04-11
+1713,bacterial infection throat pain,Amoxicillin,2024-04-21
+1714,acid reflux stomach burn,Pantoprazole,2023-08-23
+1715,sinus infection pressure pain,Amoxicillin,2023-06-23
+1716,injury swelling pain,Ibuprofen,2023-01-24
+1717,high fever body pain,Dolo650,2024-01-31
+1718,type2 diabetes high sugar,Metformin,2023-12-04
+1719,viral fever body pain,Dolo650,2023-03-10
+1720,high blood sugar fatigue,Metformin,2023-09-29
+1721,viral fever,Paracetamol,2024-04-23
+1722,acidic stomach discomfort,Pantoprazole,2023-09-05
+1723,high cholesterol risk,Atorvastatin,2023-12-21
+1724,high fever body pain,Dolo650,2024-01-10
+1725,allergy sneezing itching,Cetirizine,2023-07-18
+1726,viral fever body pain,Dolo650,2024-03-27
+1727,loose motion dehydration,ORS,2024-03-27
+1728,gastritis stomach pain,Pantoprazole,2023-11-08
+1729,ear infection pain fever,Amoxicillin,2023-07-23
+1730,vomiting dehydration weakness,ORS,2023-08-20
+1731,runny nose allergy,Cetirizine,2023-07-31
+1732,viral fever body pain,Dolo650,2024-03-29
+1733,cholesterol management,Atorvastatin,2024-03-07
+1734,cholesterol management,Atorvastatin,2023-12-31
+1735,lipid disorder treatment,Atorvastatin,2023-04-22
+1736,bacterial infection throat pain,Amoxicillin,2023-11-16
+1737,respiratory infection cough,Azithromycin,2023-06-26
+1738,runny nose allergy,Cetirizine,2023-09-15
+1739,lipid disorder treatment,Atorvastatin,2023-11-23
+1740,loose motion dehydration,ORS,2023-03-01
+1741,loose motion dehydration,ORS,2023-09-03
+1742,viral fever body pain,Dolo650,2024-04-27
+1743,acidic stomach discomfort,Pantoprazole,2024-01-18
+1744,cholesterol management,Atorvastatin,2024-03-25
+1745,acid reflux stomach burn,Pantoprazole,2023-09-25
+1746,muscle pain swelling,Ibuprofen,2023-07-15
+1747,allergy sneezing itching,Cetirizine,2023-12-10
+1748,fever body pain,Paracetamol,2023-05-17
+1749,sneezing watery eyes,Cetirizine,2023-12-16
+1750,chest infection cough fever,Azithromycin,2024-03-05
+1751,mild fever headache,Paracetamol,2023-04-15
+1752,high cholesterol risk,Atorvastatin,2023-07-03
+1753,high blood sugar fatigue,Metformin,2023-11-12
+1754,high cholesterol risk,Atorvastatin,2024-01-16
+1755,cholesterol management,Atorvastatin,2023-05-02
+1756,lipid disorder treatment,Atorvastatin,2023-05-28
+1757,cough fever headache,Paracetamol,2023-07-18
+1758,acidic stomach discomfort,Pantoprazole,2023-06-10
+1759,high cholesterol risk,Atorvastatin,2023-01-07
+1760,chest infection cough fever,Azithromycin,2023-11-14
+1761,high blood sugar fatigue,Metformin,2024-04-11
+1762,loose motion dehydration,ORS,2023-10-07
+1763,high fever body pain,Dolo650,2024-02-02
+1764,ear infection pain fever,Amoxicillin,2023-08-18
+1765,allergy sneezing itching,Cetirizine,2023-04-06
+1766,allergy sneezing itching,Cetirizine,2023-07-13
+1767,cough fever headache,Paracetamol,2023-05-23
+1768,cholesterol management,Atorvastatin,2023-03-08
+1769,sneezing watery eyes,Cetirizine,2023-01-03
+1770,vomiting dehydration weakness,ORS,2023-12-30
+1771,allergy sneezing itching,Cetirizine,2023-03-20
+1772,loose motion dehydration,ORS,2023-01-27
+1773,viral fever body pain,Dolo650,2023-06-04
+1774,diabetes frequent urination,Metformin,2023-10-09
+1775,dehydration diarrhea,ORS,2024-02-06
+1776,loose motion dehydration,ORS,2023-04-23
+1777,allergy sneezing itching,Cetirizine,2024-02-07
+1778,high cholesterol risk,Atorvastatin,2023-08-01
+1779,lipid disorder treatment,Atorvastatin,2023-07-26
+1780,back pain muscle pain,Ibuprofen,2023-04-24
+1781,sinus infection pressure pain,Amoxicillin,2023-06-19
+1782,vomiting dehydration weakness,ORS,2023-05-31
+1783,sinus infection pressure pain,Amoxicillin,2023-09-29
+1784,diabetes frequent urination,Metformin,2024-02-26
+1785,fever headache,Paracetamol,2023-12-09
+1786,vomiting dehydration weakness,ORS,2023-05-04
+1787,viral fever body pain,Dolo650,2023-05-05
+1788,mild fever headache,Paracetamol,2023-07-15
+1789,injury swelling pain,Ibuprofen,2023-05-12
+1790,lipid disorder treatment,Atorvastatin,2023-05-25
+1791,viral fever,Paracetamol,2024-02-25
+1792,loose motion dehydration,ORS,2024-02-16
+1793,cholesterol management,Atorvastatin,2023-09-07
+1794,mild fever headache,Paracetamol,2024-04-04
+1795,ear infection pain fever,Amoxicillin,2023-09-21
+1796,muscle pain swelling,Ibuprofen,2023-03-27
+1797,lipid disorder treatment,Atorvastatin,2023-01-04
+1798,joint pain inflammation,Ibuprofen,2023-12-10
+1799,sinus infection pressure pain,Amoxicillin,2023-08-06
+1800,joint pain inflammation,Ibuprofen,2023-10-03
+1801,acidic stomach discomfort,Pantoprazole,2024-02-23
+1802,joint pain inflammation,Ibuprofen,2023-01-13
+1803,diabetes frequent urination,Metformin,2023-06-19
+1804,fever headache,Paracetamol,2023-02-07
+1805,fever body pain,Paracetamol,2024-02-11
+1806,respiratory infection cough,Azithromycin,2023-02-06
+1807,high fever body pain,Dolo650,2024-04-11
+1808,severe throat infection,Azithromycin,2023-07-18
+1809,diabetes frequent urination,Metformin,2023-07-27
+1810,gastritis stomach pain,Pantoprazole,2023-01-09
+1811,acidic stomach discomfort,Pantoprazole,2023-03-02
+1812,high cholesterol risk,Atorvastatin,2023-11-25
+1813,high fever body pain,Dolo650,2024-01-23
+1814,high fever body pain,Dolo650,2023-12-25
+1815,back pain muscle pain,Ibuprofen,2024-04-20
+1816,high cholesterol risk,Atorvastatin,2023-05-29
+1817,respiratory infection cough,Azithromycin,2023-02-14
+1818,severe throat infection,Azithromycin,2023-07-15
+1819,acidic stomach discomfort,Pantoprazole,2023-01-16
+1820,high blood sugar fatigue,Metformin,2023-10-01
+1821,bacterial infection throat pain,Amoxicillin,2024-01-18
+1822,acidic stomach discomfort,Pantoprazole,2023-06-01
+1823,sneezing watery eyes,Cetirizine,2023-12-13
+1824,dehydration diarrhea,ORS,2023-10-11
+1825,high cholesterol risk,Atorvastatin,2023-03-05
+1826,fever headache,Paracetamol,2023-10-21
+1827,flu fever headache,Dolo650,2023-10-03
+1828,high cholesterol risk,Atorvastatin,2023-06-06
+1829,sinus infection pressure pain,Amoxicillin,2024-01-15
+1830,dehydration diarrhea,ORS,2023-07-31
+1831,high cholesterol risk,Atorvastatin,2023-03-24
+1832,runny nose allergy,Cetirizine,2023-11-12
+1833,chest infection cough fever,Azithromycin,2023-02-28
+1834,allergy sneezing itching,Cetirizine,2024-03-11
+1835,cholesterol management,Atorvastatin,2023-11-27
+1836,high cholesterol risk,Atorvastatin,2023-05-29
+1837,back pain muscle pain,Ibuprofen,2023-02-20
+1838,sinus infection pressure pain,Amoxicillin,2023-10-25
+1839,type2 diabetes high sugar,Metformin,2023-07-02
+1840,runny nose allergy,Cetirizine,2023-02-21
+1841,respiratory infection cough,Azithromycin,2023-02-05
+1842,ear infection pain fever,Amoxicillin,2023-09-06
+1843,type2 diabetes high sugar,Metformin,2023-11-12
+1844,respiratory infection cough,Azithromycin,2023-10-27
+1845,sneezing watery eyes,Cetirizine,2024-02-18
+1846,vomiting dehydration weakness,ORS,2023-03-28
+1847,mild fever headache,Paracetamol,2023-05-07
+1848,sinus infection pressure pain,Amoxicillin,2024-01-14
+1849,gastritis stomach pain,Pantoprazole,2024-03-06
+1850,dehydration diarrhea,ORS,2023-12-14
+1851,vomiting dehydration weakness,ORS,2023-08-25
+1852,type2 diabetes high sugar,Metformin,2024-02-01
+1853,severe throat infection,Azithromycin,2023-10-10
+1854,joint pain inflammation,Ibuprofen,2023-11-27
+1855,high fever body pain,Dolo650,2024-03-06
+1856,chest infection cough fever,Azithromycin,2024-04-01
+1857,high cholesterol risk,Atorvastatin,2023-05-15
+1858,muscle pain swelling,Ibuprofen,2024-04-01
+1859,viral fever,Paracetamol,2023-11-20
+1860,viral fever,Paracetamol,2023-10-24
+1861,acidic stomach discomfort,Pantoprazole,2023-04-19
+1862,viral fever,Paracetamol,2023-05-14
+1863,lipid disorder treatment,Atorvastatin,2023-08-30
+1864,sneezing watery eyes,Cetirizine,2023-07-20
+1865,sinus infection pressure pain,Amoxicillin,2024-01-11
+1866,chest infection cough fever,Azithromycin,2023-08-26
+1867,lipid disorder treatment,Atorvastatin,2023-02-16
+1868,gastritis stomach pain,Pantoprazole,2023-09-15
+1869,fever body pain,Paracetamol,2024-03-10
+1870,viral fever body pain,Dolo650,2023-03-26
+1871,high cholesterol risk,Atorvastatin,2023-08-17
+1872,runny nose allergy,Cetirizine,2023-10-17
+1873,viral fever body pain,Dolo650,2024-03-22
+1874,allergic rash itching,Cetirizine,2024-04-25
+1875,dehydration diarrhea,ORS,2023-04-23
+1876,high blood sugar fatigue,Metformin,2023-02-02
+1877,severe throat infection,Azithromycin,2023-04-30
+1878,fever body pain,Paracetamol,2023-09-23
+1879,vomiting dehydration weakness,ORS,2023-08-29
+1880,high blood sugar fatigue,Metformin,2023-01-21
+1881,dehydration diarrhea,ORS,2023-12-27
+1882,lipid disorder treatment,Atorvastatin,2024-02-29
+1883,respiratory infection cough,Azithromycin,2023-05-15
+1884,viral fever body pain,Dolo650,2023-10-19
+1885,allergic rash itching,Cetirizine,2023-12-01
+1886,gastritis stomach pain,Pantoprazole,2023-10-28
+1887,back pain muscle pain,Ibuprofen,2023-07-12
+1888,sinus infection pressure pain,Amoxicillin,2023-07-27
+1889,vomiting dehydration weakness,ORS,2023-09-07
+1890,diabetes frequent urination,Metformin,2023-01-04
+1891,high cholesterol risk,Atorvastatin,2023-08-14
+1892,runny nose allergy,Cetirizine,2023-02-09
+1893,lipid disorder treatment,Atorvastatin,2023-05-24
+1894,bacterial infection throat pain,Amoxicillin,2023-04-06
+1895,sneezing watery eyes,Cetirizine,2023-11-05
+1896,joint pain inflammation,Ibuprofen,2023-08-01
+1897,loose motion dehydration,ORS,2023-02-28
+1898,diabetes frequent urination,Metformin,2023-09-03
+1899,high blood sugar fatigue,Metformin,2023-10-30
+1900,allergic rash itching,Cetirizine,2023-01-12
+1901,bacterial infection throat pain,Amoxicillin,2023-03-07
+1902,viral fever body pain,Dolo650,2023-03-24
+1903,allergy sneezing itching,Cetirizine,2024-04-01
+1904,high fever body pain,Dolo650,2023-01-29
+1905,sneezing watery eyes,Cetirizine,2024-04-17
+1906,allergic rash itching,Cetirizine,2023-11-03
+1907,viral fever body pain,Dolo650,2023-01-10
+1908,chest infection cough fever,Azithromycin,2023-04-21
+1909,diabetes frequent urination,Metformin,2023-08-30
+1910,high blood sugar fatigue,Metformin,2023-04-23
+1911,acidic stomach discomfort,Pantoprazole,2023-03-15
+1912,high fever body pain,Dolo650,2023-11-16
+1913,cholesterol management,Atorvastatin,2023-03-27
+1914,vomiting dehydration weakness,ORS,2023-11-02
+1915,high fever body pain,Dolo650,2023-04-28
+1916,gastritis stomach pain,Pantoprazole,2023-03-09
+1917,muscle pain swelling,Ibuprofen,2023-04-14
+1918,lipid disorder treatment,Atorvastatin,2023-12-17
+1919,acid reflux stomach burn,Pantoprazole,2023-11-07
+1920,joint pain inflammation,Ibuprofen,2023-09-01
+1921,viral fever body pain,Dolo650,2023-01-20
+1922,lipid disorder treatment,Atorvastatin,2024-01-21
+1923,muscle pain swelling,Ibuprofen,2023-09-04
+1924,allergy sneezing itching,Cetirizine,2024-04-04
+1925,acidic stomach discomfort,Pantoprazole,2023-08-04
+1926,dehydration diarrhea,ORS,2023-12-24
+1927,cholesterol management,Atorvastatin,2023-04-28
+1928,type2 diabetes high sugar,Metformin,2023-06-29
+1929,viral fever body pain,Dolo650,2024-04-09
+1930,high fever body pain,Dolo650,2023-08-06
+1931,sneezing watery eyes,Cetirizine,2023-09-02
+1932,bacterial infection throat pain,Amoxicillin,2023-05-26
+1933,viral fever body pain,Dolo650,2023-07-29
+1934,chest infection cough fever,Azithromycin,2023-01-03
+1935,viral fever,Paracetamol,2023-09-25
+1936,muscle pain swelling,Ibuprofen,2023-07-12
+1937,sinus infection pressure pain,Amoxicillin,2024-02-16
+1938,vomiting dehydration weakness,ORS,2023-07-05
+1939,joint pain inflammation,Ibuprofen,2023-08-07
+1940,flu fever headache,Dolo650,2023-05-14
+1941,cholesterol management,Atorvastatin,2023-10-17
+1942,loose motion dehydration,ORS,2023-05-22
+1943,acid reflux stomach burn,Pantoprazole,2023-07-31
+1944,lipid disorder treatment,Atorvastatin,2023-09-05
+1945,sneezing watery eyes,Cetirizine,2023-10-14
+1946,cholesterol management,Atorvastatin,2023-05-10
+1947,respiratory infection cough,Azithromycin,2023-06-26
+1948,acidic stomach discomfort,Pantoprazole,2023-03-12
+1949,joint pain inflammation,Ibuprofen,2023-08-17
+1950,allergy sneezing itching,Cetirizine,2023-04-20
+1951,cholesterol management,Atorvastatin,2024-02-07
+1952,loose motion dehydration,ORS,2023-11-11
+1953,fever body pain,Paracetamol,2023-07-19
+1954,fever headache,Paracetamol,2024-02-26
+1955,allergic rash itching,Cetirizine,2024-04-19
+1956,flu fever headache,Dolo650,2023-02-15
+1957,back pain muscle pain,Ibuprofen,2023-04-24
+1958,dehydration diarrhea,ORS,2023-11-08
+1959,cough fever headache,Paracetamol,2024-04-21
+1960,acidic stomach discomfort,Pantoprazole,2023-12-02
+1961,cholesterol management,Atorvastatin,2023-12-31
+1962,high fever body pain,Dolo650,2024-04-29
+1963,allergic rash itching,Cetirizine,2023-08-13
+1964,fever body pain,Paracetamol,2024-03-11
+1965,cholesterol management,Atorvastatin,2023-04-10
+1966,viral fever,Paracetamol,2023-09-19
+1967,lipid disorder treatment,Atorvastatin,2023-04-29
+1968,high fever body pain,Dolo650,2023-12-12
+1969,mild fever headache,Paracetamol,2023-05-03
+1970,fever body pain,Paracetamol,2023-02-14
+1971,severe throat infection,Azithromycin,2023-06-30
+1972,gastritis stomach pain,Pantoprazole,2023-10-28
+1973,sinus infection pressure pain,Amoxicillin,2023-01-08
+1974,muscle pain swelling,Ibuprofen,2023-10-09
+1975,respiratory infection cough,Azithromycin,2024-02-29
+1976,lipid disorder treatment,Atorvastatin,2023-06-28
+1977,vomiting dehydration weakness,ORS,2023-04-26
+1978,high fever body pain,Dolo650,2023-08-21
+1979,acidic stomach discomfort,Pantoprazole,2023-01-03
+1980,chest infection cough fever,Azithromycin,2023-07-28
+1981,high cholesterol risk,Atorvastatin,2023-10-14
+1982,back pain muscle pain,Ibuprofen,2023-06-24
+1983,back pain muscle pain,Ibuprofen,2024-03-24
+1984,lipid disorder treatment,Atorvastatin,2023-05-09
+1985,type2 diabetes high sugar,Metformin,2023-10-16
+1986,high blood sugar fatigue,Metformin,2024-01-23
+1987,vomiting dehydration weakness,ORS,2023-12-15
+1988,diabetes frequent urination,Metformin,2024-03-17
+1989,cough fever headache,Paracetamol,2023-03-01
+1990,chest infection cough fever,Azithromycin,2023-07-15
+1991,sinus infection pressure pain,Amoxicillin,2023-12-26
+1992,ear infection pain fever,Amoxicillin,2023-07-31
+1993,loose motion dehydration,ORS,2023-10-02
+1994,mild fever headache,Paracetamol,2023-05-08
+1995,chest infection cough fever,Azithromycin,2023-07-24
+1996,dehydration diarrhea,ORS,2023-10-11
+1997,allergic rash itching,Cetirizine,2023-06-10
+1998,dehydration diarrhea,ORS,2024-04-02
+1999,flu fever headache,Dolo650,2023-04-04
+2000,ear infection pain fever,Amoxicillin,2024-01-13
+2001,bacterial infection throat pain,Amoxicillin,2024-01-12
+2002,ear infection pain fever,Amoxicillin,2023-04-16
+2003,bacterial infection throat pain,Amoxicillin,2024-03-03
+2004,sinus infection pressure pain,Amoxicillin,2023-07-02
+2005,allergy sneezing itching,Cetirizine,2023-03-03
+2006,injury swelling pain,Ibuprofen,2023-11-11
+2007,viral fever,Paracetamol,2024-05-05
+2008,cough fever headache,Paracetamol,2023-07-10
+2009,flu fever headache,Dolo650,2023-09-10
+2010,flu fever headache,Dolo650,2023-09-09
+2011,sneezing watery eyes,Cetirizine,2023-07-23
+2012,sinus infection pressure pain,Amoxicillin,2023-03-07
+2013,viral fever,Paracetamol,2024-02-14
+2014,gastritis stomach pain,Pantoprazole,2024-04-26
+2015,high cholesterol risk,Atorvastatin,2023-09-15
+2016,vomiting dehydration weakness,ORS,2024-03-16
+2017,allergic rash itching,Cetirizine,2024-05-14
+2018,injury swelling pain,Ibuprofen,2023-06-11
+2019,fever headache,Paracetamol,2023-12-12
+2020,ear infection pain fever,Amoxicillin,2023-10-25
+2021,back pain muscle pain,Ibuprofen,2023-07-05
+2022,flu fever headache,Dolo650,2023-04-06
+2023,cholesterol management,Atorvastatin,2023-05-02
+2024,severe throat infection,Azithromycin,2024-05-05
+2025,flu fever headache,Dolo650,2023-07-07
+2026,allergic rash itching,Cetirizine,2023-08-06
+2027,ear infection pain fever,Amoxicillin,2023-12-25
+2028,vomiting dehydration weakness,ORS,2024-03-13
+2029,gastritis stomach pain,Pantoprazole,2023-08-19
+2030,runny nose allergy,Cetirizine,2023-10-22
+2031,bacterial infection throat pain,Amoxicillin,2024-01-05
+2032,chest infection cough fever,Azithromycin,2023-10-12
+2033,gastritis stomach pain,Pantoprazole,2023-04-11
+2034,runny nose allergy,Cetirizine,2023-08-31
+2035,fever body pain,Paracetamol,2023-08-04
+2036,high blood sugar fatigue,Metformin,2024-04-02
+2037,lipid disorder treatment,Atorvastatin,2024-01-04
+2038,vomiting dehydration weakness,ORS,2023-06-03
+2039,respiratory infection cough,Azithromycin,2024-03-15
+2040,high fever body pain,Dolo650,2023-07-23
+2041,joint pain inflammation,Ibuprofen,2023-01-31
+2042,ear infection pain fever,Amoxicillin,2023-09-01
+2043,injury swelling pain,Ibuprofen,2024-01-17
+2044,vomiting dehydration weakness,ORS,2023-07-04
+2045,loose motion dehydration,ORS,2023-10-13
+2046,severe throat infection,Azithromycin,2023-01-11
+2047,acid reflux stomach burn,Pantoprazole,2023-06-29
+2048,high fever body pain,Dolo650,2023-10-23
+2049,viral fever body pain,Dolo650,2023-11-29
+2050,high cholesterol risk,Atorvastatin,2024-02-04
+2051,severe throat infection,Azithromycin,2023-06-16
+2052,cholesterol management,Atorvastatin,2024-02-01
+2053,high blood sugar fatigue,Metformin,2023-07-15
+2054,flu fever headache,Dolo650,2023-08-26
+2055,runny nose allergy,Cetirizine,2023-11-24
+2056,vomiting dehydration weakness,ORS,2023-11-20
+2057,viral fever body pain,Dolo650,2023-07-27
+2058,muscle pain swelling,Ibuprofen,2023-03-24
+2059,dehydration diarrhea,ORS,2023-06-10
+2060,loose motion dehydration,ORS,2023-05-30
+2061,respiratory infection cough,Azithromycin,2023-11-27
+2062,gastritis stomach pain,Pantoprazole,2024-03-30
+2063,type2 diabetes high sugar,Metformin,2024-01-18
+2064,viral fever body pain,Dolo650,2024-05-09
+2065,type2 diabetes high sugar,Metformin,2023-03-27
+2066,allergy sneezing itching,Cetirizine,2023-03-06
+2067,sinus infection pressure pain,Amoxicillin,2023-05-09
+2068,joint pain inflammation,Ibuprofen,2023-03-27
+2069,acid reflux stomach burn,Pantoprazole,2023-02-18
+2070,injury swelling pain,Ibuprofen,2023-10-08
+2071,fever headache,Paracetamol,2024-01-30
+2072,acidic stomach discomfort,Pantoprazole,2024-01-27
+2073,muscle pain swelling,Ibuprofen,2023-05-15
+2074,high fever body pain,Dolo650,2023-02-13
+2075,gastritis stomach pain,Pantoprazole,2023-04-28
+2076,sinus infection pressure pain,Amoxicillin,2023-05-26
+2077,diabetes frequent urination,Metformin,2023-03-06
+2078,runny nose allergy,Cetirizine,2023-01-15
+2079,mild fever headache,Paracetamol,2024-03-16
+2080,vomiting dehydration weakness,ORS,2023-08-28
+2081,cholesterol management,Atorvastatin,2023-10-08
+2082,high blood sugar fatigue,Metformin,2024-05-11
+2083,high cholesterol risk,Atorvastatin,2023-10-30
+2084,flu fever headache,Dolo650,2023-11-20
+2085,flu fever headache,Dolo650,2023-09-26
+2086,cholesterol management,Atorvastatin,2024-04-10
+2087,vomiting dehydration weakness,ORS,2023-10-04
+2088,bacterial infection throat pain,Amoxicillin,2023-08-15
+2089,severe throat infection,Azithromycin,2023-07-31
+2090,chest infection cough fever,Azithromycin,2023-06-05
+2091,fever headache,Paracetamol,2023-09-25
+2092,sneezing watery eyes,Cetirizine,2023-05-27
+2093,diabetes frequent urination,Metformin,2023-01-05
+2094,type2 diabetes high sugar,Metformin,2023-06-03
+2095,cough fever headache,Paracetamol,2024-02-13
+2096,respiratory infection cough,Azithromycin,2023-04-29
+2097,viral fever,Paracetamol,2023-07-11
+2098,ear infection pain fever,Amoxicillin,2024-03-27
+2099,cholesterol management,Atorvastatin,2023-07-22
+2100,bacterial infection throat pain,Amoxicillin,2024-01-02
+2101,gastritis stomach pain,Pantoprazole,2023-04-23
+2102,chest infection cough fever,Azithromycin,2023-08-05
+2103,sinus infection pressure pain,Amoxicillin,2024-01-27
+2104,viral fever body pain,Dolo650,2023-12-17
+2105,severe throat infection,Azithromycin,2023-11-29
+2106,cholesterol management,Atorvastatin,2023-07-31
+2107,bacterial infection throat pain,Amoxicillin,2023-04-04
+2108,sneezing watery eyes,Cetirizine,2023-02-26
+2109,diabetes frequent urination,Metformin,2023-08-20
+2110,respiratory infection cough,Azithromycin,2023-11-15
+2111,high blood sugar fatigue,Metformin,2023-06-14
+2112,fever body pain,Paracetamol,2023-01-26
+2113,high cholesterol risk,Atorvastatin,2023-04-06
+2114,back pain muscle pain,Ibuprofen,2023-05-18
+2115,allergic rash itching,Cetirizine,2024-01-08
+2116,fever body pain,Paracetamol,2023-02-16
+2117,allergy sneezing itching,Cetirizine,2023-09-10
+2118,ear infection pain fever,Amoxicillin,2023-08-04
+2119,severe throat infection,Azithromycin,2023-07-10
+2120,diabetes frequent urination,Metformin,2024-02-10
+2121,mild fever headache,Paracetamol,2023-02-11
+2122,allergy sneezing itching,Cetirizine,2023-05-17
+2123,acid reflux stomach burn,Pantoprazole,2023-10-06
+2124,high blood sugar fatigue,Metformin,2023-04-09
+2125,severe throat infection,Azithromycin,2024-02-29
+2126,fever headache,Paracetamol,2024-05-13
+2127,ear infection pain fever,Amoxicillin,2024-01-30
+2128,high blood sugar fatigue,Metformin,2024-01-13
+2129,fever body pain,Paracetamol,2023-08-24
+2130,joint pain inflammation,Ibuprofen,2023-08-31
+2131,acidic stomach discomfort,Pantoprazole,2024-05-07
+2132,severe throat infection,Azithromycin,2023-03-23
+2133,viral fever,Paracetamol,2023-09-24
+2134,back pain muscle pain,Ibuprofen,2023-09-04
+2135,chest infection cough fever,Azithromycin,2023-07-04
+2136,fever body pain,Paracetamol,2024-05-13
+2137,joint pain inflammation,Ibuprofen,2023-11-21
+2138,gastritis stomach pain,Pantoprazole,2023-01-08
+2139,sneezing watery eyes,Cetirizine,2023-10-27
+2140,injury swelling pain,Ibuprofen,2024-02-09
+2141,bacterial infection throat pain,Amoxicillin,2024-05-11
+2142,viral fever,Paracetamol,2024-02-06
+2143,diabetes frequent urination,Metformin,2023-11-02
+2144,sneezing watery eyes,Cetirizine,2024-01-30
+2145,joint pain inflammation,Ibuprofen,2023-03-22
+2146,high blood sugar fatigue,Metformin,2023-12-18
+2147,flu fever headache,Dolo650,2024-04-21
+2148,fever headache,Paracetamol,2023-07-02
+2149,allergy sneezing itching,Cetirizine,2023-03-06
+2150,high blood sugar fatigue,Metformin,2023-06-12
+2151,lipid disorder treatment,Atorvastatin,2024-01-23
+2152,vomiting dehydration weakness,ORS,2024-01-11
+2153,bacterial infection throat pain,Amoxicillin,2023-12-19
+2154,gastritis stomach pain,Pantoprazole,2024-01-06
+2155,sneezing watery eyes,Cetirizine,2024-04-05
+2156,cough fever headache,Paracetamol,2023-12-28
+2157,diabetes frequent urination,Metformin,2023-05-31
+2158,lipid disorder treatment,Atorvastatin,2023-09-08
+2159,sinus infection pressure pain,Amoxicillin,2023-04-06
+2160,cholesterol management,Atorvastatin,2023-06-15
+2161,type2 diabetes high sugar,Metformin,2024-03-20
+2162,viral fever body pain,Dolo650,2023-03-24
+2163,joint pain inflammation,Ibuprofen,2023-08-19
+2164,severe throat infection,Azithromycin,2023-10-05
+2165,vomiting dehydration weakness,ORS,2023-01-01
+2166,cholesterol management,Atorvastatin,2024-01-11
+2167,allergy sneezing itching,Cetirizine,2023-11-14
+2168,loose motion dehydration,ORS,2023-05-03
+2169,loose motion dehydration,ORS,2023-02-02
+2170,cholesterol management,Atorvastatin,2023-04-08
+2171,lipid disorder treatment,Atorvastatin,2023-09-12
+2172,high cholesterol risk,Atorvastatin,2023-11-10
+2173,severe throat infection,Azithromycin,2023-07-29
+2174,dehydration diarrhea,ORS,2023-02-19
+2175,lipid disorder treatment,Atorvastatin,2023-02-04
+2176,fever body pain,Paracetamol,2023-04-02
+2177,fever body pain,Paracetamol,2023-02-24
+2178,high blood sugar fatigue,Metformin,2023-02-20
+2179,viral fever,Paracetamol,2023-11-25
+2180,acidic stomach discomfort,Pantoprazole,2023-09-08
+2181,lipid disorder treatment,Atorvastatin,2023-12-26
+2182,flu fever headache,Dolo650,2023-01-26
+2183,dehydration diarrhea,ORS,2023-11-07
+2184,muscle pain swelling,Ibuprofen,2024-04-21
+2185,sinus infection pressure pain,Amoxicillin,2023-09-09
+2186,injury swelling pain,Ibuprofen,2024-02-15
+2187,mild fever headache,Paracetamol,2023-10-13
+2188,gastritis stomach pain,Pantoprazole,2024-02-11
+2189,viral fever,Paracetamol,2023-05-17
+2190,high cholesterol risk,Atorvastatin,2024-01-11
+2191,back pain muscle pain,Ibuprofen,2023-02-09
+2192,sinus infection pressure pain,Amoxicillin,2023-02-19
+2193,joint pain inflammation,Ibuprofen,2023-09-30
+2194,acid reflux stomach burn,Pantoprazole,2023-04-09
+2195,lipid disorder treatment,Atorvastatin,2023-05-08
+2196,viral fever body pain,Dolo650,2024-04-30
+2197,allergic rash itching,Cetirizine,2024-01-18
+2198,back pain muscle pain,Ibuprofen,2023-12-12
+2199,diabetes frequent urination,Metformin,2023-12-07
+2200,acid reflux stomach burn,Pantoprazole,2023-03-27
+2201,allergic rash itching,Cetirizine,2023-09-16
+2202,loose motion dehydration,ORS,2023-03-22
+2203,lipid disorder treatment,Atorvastatin,2023-08-15
+2204,vomiting dehydration weakness,ORS,2023-10-09
+2205,vomiting dehydration weakness,ORS,2023-07-31
+2206,acidic stomach discomfort,Pantoprazole,2023-06-15
+2207,high fever body pain,Dolo650,2023-10-16
+2208,high cholesterol risk,Atorvastatin,2023-07-12
+2209,lipid disorder treatment,Atorvastatin,2023-05-11
+2210,vomiting dehydration weakness,ORS,2023-08-18
+2211,acid reflux stomach burn,Pantoprazole,2024-01-07
+2212,mild fever headache,Paracetamol,2023-11-02
+2213,viral fever,Paracetamol,2023-03-11
+2214,chest infection cough fever,Azithromycin,2023-06-03
+2215,bacterial infection throat pain,Amoxicillin,2024-03-14
+2216,dehydration diarrhea,ORS,2024-01-31
+2217,respiratory infection cough,Azithromycin,2023-09-19
+2218,lipid disorder treatment,Atorvastatin,2024-04-19
+2219,high fever body pain,Dolo650,2023-02-18
+2220,cough fever headache,Paracetamol,2023-07-02
+2221,runny nose allergy,Cetirizine,2023-05-16
+2222,loose motion dehydration,ORS,2023-05-08
+2223,ear infection pain fever,Amoxicillin,2024-02-20
+2224,chest infection cough fever,Azithromycin,2023-10-20
+2225,acidic stomach discomfort,Pantoprazole,2024-04-14
+2226,sinus infection pressure pain,Amoxicillin,2023-02-09
+2227,vomiting dehydration weakness,ORS,2023-03-30
+2228,diabetes frequent urination,Metformin,2023-12-26
+2229,high fever body pain,Dolo650,2023-11-01
+2230,chest infection cough fever,Azithromycin,2024-01-10
+2231,flu fever headache,Dolo650,2023-02-10
+2232,mild fever headache,Paracetamol,2023-06-28
+2233,gastritis stomach pain,Pantoprazole,2024-04-21
+2234,joint pain inflammation,Ibuprofen,2024-01-18
+2235,high fever body pain,Dolo650,2023-11-21
+2236,acid reflux stomach burn,Pantoprazole,2023-06-06
+2237,high cholesterol risk,Atorvastatin,2023-06-13
+2238,lipid disorder treatment,Atorvastatin,2023-03-18
+2239,loose motion dehydration,ORS,2023-12-24
+2240,bacterial infection throat pain,Amoxicillin,2023-01-26
+2241,gastritis stomach pain,Pantoprazole,2024-01-21
+2242,viral fever body pain,Dolo650,2023-09-16
+2243,joint pain inflammation,Ibuprofen,2023-08-10
+2244,severe throat infection,Azithromycin,2023-03-17
+2245,sneezing watery eyes,Cetirizine,2023-02-12
+2246,diabetes frequent urination,Metformin,2024-01-17
+2247,viral fever,Paracetamol,2023-07-24
+2248,chest infection cough fever,Azithromycin,2023-07-24
+2249,cholesterol management,Atorvastatin,2024-02-01
+2250,runny nose allergy,Cetirizine,2023-09-04
+2251,high cholesterol risk,Atorvastatin,2023-09-07
+2252,acidic stomach discomfort,Pantoprazole,2023-10-20
+2253,sinus infection pressure pain,Amoxicillin,2023-11-12
+2254,high cholesterol risk,Atorvastatin,2023-05-05
+2255,back pain muscle pain,Ibuprofen,2024-02-02
+2256,gastritis stomach pain,Pantoprazole,2023-12-17
+2257,high fever body pain,Dolo650,2023-02-27
+2258,gastritis stomach pain,Pantoprazole,2023-07-07
+2259,dehydration diarrhea,ORS,2023-06-14
+2260,loose motion dehydration,ORS,2023-12-02
+2261,mild fever headache,Paracetamol,2023-03-28
+2262,loose motion dehydration,ORS,2024-02-25
+2263,diabetes frequent urination,Metformin,2023-03-16
+2264,high blood sugar fatigue,Metformin,2024-04-18
+2265,bacterial infection throat pain,Amoxicillin,2023-12-17
+2266,dehydration diarrhea,ORS,2024-01-23
+2267,muscle pain swelling,Ibuprofen,2024-01-14
+2268,fever body pain,Paracetamol,2024-04-30
+2269,high fever body pain,Dolo650,2024-03-20
+2270,chest infection cough fever,Azithromycin,2023-06-25
+2271,back pain muscle pain,Ibuprofen,2023-08-19
+2272,high blood sugar fatigue,Metformin,2023-06-19
+2273,sinus infection pressure pain,Amoxicillin,2023-10-03
+2274,bacterial infection throat pain,Amoxicillin,2023-10-07
+2275,cholesterol management,Atorvastatin,2023-10-08
+2276,diabetes frequent urination,Metformin,2024-01-09
+2277,allergy sneezing itching,Cetirizine,2023-07-12
+2278,viral fever body pain,Dolo650,2023-09-27
+2279,mild fever headache,Paracetamol,2023-03-29
+2280,mild fever headache,Paracetamol,2023-04-13
+2281,flu fever headache,Dolo650,2023-01-28
+2282,diabetes frequent urination,Metformin,2024-04-28
+2283,fever headache,Paracetamol,2023-07-18
+2284,respiratory infection cough,Azithromycin,2024-03-12
+2285,dehydration diarrhea,ORS,2023-01-10
+2286,respiratory infection cough,Azithromycin,2023-07-17
+2287,ear infection pain fever,Amoxicillin,2023-09-18
+2288,back pain muscle pain,Ibuprofen,2023-09-06
+2289,viral fever body pain,Dolo650,2023-02-15
+2290,runny nose allergy,Cetirizine,2023-09-14
+2291,diabetes frequent urination,Metformin,2024-04-19
+2292,fever headache,Paracetamol,2023-05-07
+2293,cholesterol management,Atorvastatin,2023-06-20
+2294,type2 diabetes high sugar,Metformin,2024-01-17
+2295,allergy sneezing itching,Cetirizine,2023-06-27
+2296,vomiting dehydration weakness,ORS,2023-11-17
+2297,chest infection cough fever,Azithromycin,2024-05-15
+2298,cholesterol management,Atorvastatin,2024-02-20
+2299,mild fever headache,Paracetamol,2024-03-25
+2300,acid reflux stomach burn,Pantoprazole,2024-04-28
+2301,cholesterol management,Atorvastatin,2023-04-26
+2302,sneezing watery eyes,Cetirizine,2024-04-04
+2303,acidic stomach discomfort,Pantoprazole,2023-03-12
+2304,injury swelling pain,Ibuprofen,2023-09-24
+2305,viral fever body pain,Dolo650,2023-12-18
+2306,ear infection pain fever,Amoxicillin,2023-05-04
+2307,high fever body pain,Dolo650,2023-08-07
+2308,respiratory infection cough,Azithromycin,2023-06-18
+2309,diabetes frequent urination,Metformin,2023-03-09
+2310,sinus infection pressure pain,Amoxicillin,2023-03-12
+2311,viral fever body pain,Dolo650,2023-12-17
+2312,bacterial infection throat pain,Amoxicillin,2023-06-08
+2313,high cholesterol risk,Atorvastatin,2023-08-09
+2314,runny nose allergy,Cetirizine,2023-06-12
+2315,muscle pain swelling,Ibuprofen,2023-04-05
+2316,dehydration diarrhea,ORS,2024-01-08
+2317,mild fever headache,Paracetamol,2024-03-26
+2318,gastritis stomach pain,Pantoprazole,2023-06-05
+2319,diabetes frequent urination,Metformin,2024-04-23
+2320,chest infection cough fever,Azithromycin,2024-02-03
+2321,bacterial infection throat pain,Amoxicillin,2023-03-09
+2322,allergy sneezing itching,Cetirizine,2024-01-26
+2323,viral fever body pain,Dolo650,2023-05-17
+2324,viral fever body pain,Dolo650,2023-11-10
+2325,sinus infection pressure pain,Amoxicillin,2023-04-29
+2326,sinus infection pressure pain,Amoxicillin,2023-01-14
+2327,dehydration diarrhea,ORS,2023-12-19
+2328,high blood sugar fatigue,Metformin,2023-09-15
+2329,flu fever headache,Dolo650,2023-12-31
+2330,dehydration diarrhea,ORS,2024-03-12
+2331,gastritis stomach pain,Pantoprazole,2023-08-31
+2332,runny nose allergy,Cetirizine,2023-04-09
+2333,bacterial infection throat pain,Amoxicillin,2023-07-29
+2334,mild fever headache,Paracetamol,2024-05-01
+2335,acid reflux stomach burn,Pantoprazole,2024-01-16
+2336,bacterial infection throat pain,Amoxicillin,2023-02-03
+2337,allergic rash itching,Cetirizine,2024-03-19
+2338,flu fever headache,Dolo650,2023-12-19
+2339,vomiting dehydration weakness,ORS,2024-03-30
+2340,ear infection pain fever,Amoxicillin,2023-07-27
+2341,viral fever,Paracetamol,2024-01-12
+2342,acidic stomach discomfort,Pantoprazole,2023-06-10
+2343,acidic stomach discomfort,Pantoprazole,2024-04-25
+2344,viral fever body pain,Dolo650,2023-10-02
+2345,lipid disorder treatment,Atorvastatin,2024-03-24
+2346,viral fever,Paracetamol,2023-02-25
+2347,type2 diabetes high sugar,Metformin,2024-02-28
+2348,fever body pain,Paracetamol,2023-09-23
+2349,cholesterol management,Atorvastatin,2024-01-12
+2350,viral fever,Paracetamol,2023-07-18
+2351,lipid disorder treatment,Atorvastatin,2024-05-07
+2352,fever body pain,Paracetamol,2023-05-30
+2353,type2 diabetes high sugar,Metformin,2024-03-28
+2354,severe throat infection,Azithromycin,2023-08-25
+2355,allergic rash itching,Cetirizine,2023-05-31
+2356,high fever body pain,Dolo650,2023-12-20
+2357,high cholesterol risk,Atorvastatin,2023-08-26
+2358,high blood sugar fatigue,Metformin,2024-01-05
+2359,high cholesterol risk,Atorvastatin,2023-04-03
+2360,viral fever body pain,Dolo650,2023-10-07
+2361,allergic rash itching,Cetirizine,2023-07-31
+2362,vomiting dehydration weakness,ORS,2023-01-13
+2363,allergic rash itching,Cetirizine,2023-10-30
+2364,ear infection pain fever,Amoxicillin,2023-02-16
+2365,severe throat infection,Azithromycin,2023-12-21
+2366,allergy sneezing itching,Cetirizine,2023-02-16
+2367,injury swelling pain,Ibuprofen,2023-11-21
+2368,dehydration diarrhea,ORS,2023-09-26
+2369,acidic stomach discomfort,Pantoprazole,2024-02-10
+2370,lipid disorder treatment,Atorvastatin,2024-05-01
+2371,allergic rash itching,Cetirizine,2023-10-09
+2372,acid reflux stomach burn,Pantoprazole,2024-01-29
+2373,sneezing watery eyes,Cetirizine,2023-10-17
+2374,runny nose allergy,Cetirizine,2024-03-20
+2375,runny nose allergy,Cetirizine,2024-01-29
+2376,cough fever headache,Paracetamol,2023-06-07
+2377,respiratory infection cough,Azithromycin,2024-01-29
+2378,type2 diabetes high sugar,Metformin,2023-11-17
+2379,allergy sneezing itching,Cetirizine,2024-04-05
+2380,runny nose allergy,Cetirizine,2023-01-02
+2381,flu fever headache,Dolo650,2023-01-07
+2382,type2 diabetes high sugar,Metformin,2024-03-13
+2383,diabetes frequent urination,Metformin,2024-02-18
+2384,viral fever,Paracetamol,2024-03-27
+2385,high blood sugar fatigue,Metformin,2023-04-22
+2386,viral fever body pain,Dolo650,2023-09-01
+2387,type2 diabetes high sugar,Metformin,2023-08-15
+2388,muscle pain swelling,Ibuprofen,2023-05-06
+2389,cholesterol management,Atorvastatin,2023-11-14
+2390,high cholesterol risk,Atorvastatin,2023-01-26
+2391,runny nose allergy,Cetirizine,2023-01-29
+2392,dehydration diarrhea,ORS,2023-03-16
+2393,viral fever,Paracetamol,2024-03-05
+2394,flu fever headache,Dolo650,2023-06-19
+2395,muscle pain swelling,Ibuprofen,2023-02-25
+2396,acid reflux stomach burn,Pantoprazole,2023-03-24
+2397,respiratory infection cough,Azithromycin,2023-12-05
+2398,viral fever body pain,Dolo650,2024-02-08
+2399,high cholesterol risk,Atorvastatin,2024-05-09
+2400,diabetes frequent urination,Metformin,2023-10-24
+2401,dehydration diarrhea,ORS,2023-02-17
+2402,severe throat infection,Azithromycin,2023-07-08
+2403,acid reflux stomach burn,Pantoprazole,2024-01-24
+2404,acidic stomach discomfort,Pantoprazole,2023-02-03
+2405,severe throat infection,Azithromycin,2023-03-10
+2406,back pain muscle pain,Ibuprofen,2023-06-18
+2407,cholesterol management,Atorvastatin,2023-09-26
+2408,sinus infection pressure pain,Amoxicillin,2023-04-18
+2409,high fever body pain,Dolo650,2023-02-25
+2410,viral fever body pain,Dolo650,2023-11-19
+2411,high cholesterol risk,Atorvastatin,2023-09-05
+2412,viral fever body pain,Dolo650,2023-05-28
+2413,acidic stomach discomfort,Pantoprazole,2024-03-10
+2414,vomiting dehydration weakness,ORS,2023-09-27
+2415,viral fever body pain,Dolo650,2023-07-01
+2416,allergic rash itching,Cetirizine,2023-09-24
+2417,type2 diabetes high sugar,Metformin,2024-02-18
+2418,runny nose allergy,Cetirizine,2023-12-29
+2419,chest infection cough fever,Azithromycin,2023-01-01
+2420,muscle pain swelling,Ibuprofen,2023-08-27
+2421,joint pain inflammation,Ibuprofen,2024-02-14
+2422,flu fever headache,Dolo650,2023-07-31
+2423,mild fever headache,Paracetamol,2023-06-29
+2424,lipid disorder treatment,Atorvastatin,2023-04-19
+2425,fever body pain,Paracetamol,2023-12-20
+2426,severe throat infection,Azithromycin,2024-02-09
+2427,back pain muscle pain,Ibuprofen,2023-06-03
+2428,lipid disorder treatment,Atorvastatin,2023-06-15
+2429,fever headache,Paracetamol,2023-12-18
+2430,vomiting dehydration weakness,ORS,2023-07-22
+2431,viral fever body pain,Dolo650,2024-05-06
+2432,fever body pain,Paracetamol,2023-04-10
+2433,vomiting dehydration weakness,ORS,2024-04-17
+2434,type2 diabetes high sugar,Metformin,2024-02-13
+2435,fever body pain,Paracetamol,2023-09-04
+2436,allergic rash itching,Cetirizine,2024-04-01
+2437,cholesterol management,Atorvastatin,2023-08-25
+2438,acidic stomach discomfort,Pantoprazole,2023-01-29
+2439,cholesterol management,Atorvastatin,2023-10-17
+2440,loose motion dehydration,ORS,2023-10-02
+2441,fever body pain,Paracetamol,2023-10-23
+2442,vomiting dehydration weakness,ORS,2023-02-03
+2443,sneezing watery eyes,Cetirizine,2024-03-06
+2444,mild fever headache,Paracetamol,2023-07-12
+2445,high cholesterol risk,Atorvastatin,2023-10-20
+2446,flu fever headache,Dolo650,2023-04-06
+2447,high fever body pain,Dolo650,2024-03-18
+2448,respiratory infection cough,Azithromycin,2024-03-15
+2449,loose motion dehydration,ORS,2023-01-17
+2450,severe throat infection,Azithromycin,2023-02-14
+2451,high blood sugar fatigue,Metformin,2023-07-10
+2452,type2 diabetes high sugar,Metformin,2023-04-21
+2453,cholesterol management,Atorvastatin,2023-03-31
+2454,back pain muscle pain,Ibuprofen,2024-02-06
+2455,fever body pain,Paracetamol,2024-04-12
+2456,injury swelling pain,Ibuprofen,2023-09-17
+2457,cough fever headache,Paracetamol,2024-04-08
+2458,high cholesterol risk,Atorvastatin,2023-04-08
+2459,vomiting dehydration weakness,ORS,2024-01-11
+2460,cholesterol management,Atorvastatin,2024-02-02
+2461,dehydration diarrhea,ORS,2024-01-29
+2462,joint pain inflammation,Ibuprofen,2023-04-16
+2463,cough fever headache,Paracetamol,2023-07-18
+2464,high cholesterol risk,Atorvastatin,2023-01-03
+2465,chest infection cough fever,Azithromycin,2023-12-18
+2466,high fever body pain,Dolo650,2023-06-20
+2467,high blood sugar fatigue,Metformin,2023-02-22
+2468,lipid disorder treatment,Atorvastatin,2024-01-17
+2469,chest infection cough fever,Azithromycin,2023-10-23
+2470,respiratory infection cough,Azithromycin,2024-04-01
+2471,ear infection pain fever,Amoxicillin,2023-04-13
+2472,ear infection pain fever,Amoxicillin,2023-05-22
+2473,cholesterol management,Atorvastatin,2024-01-31
+2474,diabetes frequent urination,Metformin,2023-03-02
+2475,chest infection cough fever,Azithromycin,2023-03-22
+2476,chest infection cough fever,Azithromycin,2023-01-08
+2477,viral fever body pain,Dolo650,2023-09-21
+2478,joint pain inflammation,Ibuprofen,2023-10-05
+2479,loose motion dehydration,ORS,2023-06-13
+2480,chest infection cough fever,Azithromycin,2024-04-27
+2481,respiratory infection cough,Azithromycin,2023-05-06
+2482,allergy sneezing itching,Cetirizine,2023-06-09
+2483,flu fever headache,Dolo650,2023-10-04
+2484,high blood sugar fatigue,Metformin,2023-03-08
+2485,cough fever headache,Paracetamol,2024-04-07
+2486,fever headache,Paracetamol,2023-07-16
+2487,fever headache,Paracetamol,2023-08-07
+2488,acid reflux stomach burn,Pantoprazole,2023-12-27
+2489,viral fever body pain,Dolo650,2023-11-19
+2490,diabetes frequent urination,Metformin,2023-07-02
+2491,severe throat infection,Azithromycin,2024-02-23
+2492,sinus infection pressure pain,Amoxicillin,2024-01-24
+2493,high cholesterol risk,Atorvastatin,2024-05-13
+2494,diabetes frequent urination,Metformin,2023-03-09
+2495,injury swelling pain,Ibuprofen,2023-02-19
+2496,type2 diabetes high sugar,Metformin,2023-12-17
+2497,type2 diabetes high sugar,Metformin,2023-04-29
+2498,bacterial infection throat pain,Amoxicillin,2024-03-16
+2499,flu fever headache,Dolo650,2024-04-12
+2500,vomiting dehydration weakness,ORS,2023-04-04
+2501,vomiting dehydration weakness,ORS,2023-08-21
+2502,high blood sugar fatigue,Metformin,2023-02-03
+2503,high blood sugar fatigue,Metformin,2023-06-29
+2504,type2 diabetes high sugar,Metformin,2024-03-09
+2505,sneezing watery eyes,Cetirizine,2024-01-29
+2506,loose motion dehydration,ORS,2023-10-22
+2507,allergy sneezing itching,Cetirizine,2023-07-27
+2508,back pain muscle pain,Ibuprofen,2023-10-12
+2509,back pain muscle pain,Ibuprofen,2023-09-30
+2510,type2 diabetes high sugar,Metformin,2023-10-30
+2511,acid reflux stomach burn,Pantoprazole,2023-11-14
+2512,sinus infection pressure pain,Amoxicillin,2023-03-23
+2513,type2 diabetes high sugar,Metformin,2023-02-03
+2514,dehydration diarrhea,ORS,2024-02-21
+2515,flu fever headache,Dolo650,2024-02-06
+2516,acidic stomach discomfort,Pantoprazole,2024-02-08
+2517,loose motion dehydration,ORS,2023-12-22
+2518,bacterial infection throat pain,Amoxicillin,2023-12-06
+2519,injury swelling pain,Ibuprofen,2023-02-28
+2520,viral fever body pain,Dolo650,2023-08-26
+2521,loose motion dehydration,ORS,2023-02-19
+2522,high blood sugar fatigue,Metformin,2023-06-07
+2523,acid reflux stomach burn,Pantoprazole,2023-11-03
+2524,injury swelling pain,Ibuprofen,2023-06-17
+2525,diabetes frequent urination,Metformin,2023-12-05
+2526,fever headache,Paracetamol,2023-04-22
+2527,allergy sneezing itching,Cetirizine,2024-01-23
+2528,runny nose allergy,Cetirizine,2023-08-20
+2529,cholesterol management,Atorvastatin,2023-07-19
+2530,viral fever body pain,Dolo650,2023-08-17
+2531,bacterial infection throat pain,Amoxicillin,2023-12-15
+2532,vomiting dehydration weakness,ORS,2023-10-19
+2533,severe throat infection,Azithromycin,2024-01-03
+2534,dehydration diarrhea,ORS,2023-10-26
+2535,viral fever,Paracetamol,2023-09-19
+2536,acid reflux stomach burn,Pantoprazole,2024-03-12
+2537,chest infection cough fever,Azithromycin,2023-07-09
+2538,high cholesterol risk,Atorvastatin,2023-01-01
+2539,cholesterol management,Atorvastatin,2023-02-26
+2540,chest infection cough fever,Azithromycin,2023-05-01
+2541,acidic stomach discomfort,Pantoprazole,2023-10-30
+2542,acidic stomach discomfort,Pantoprazole,2023-06-12
+2543,gastritis stomach pain,Pantoprazole,2023-07-15
+2544,acidic stomach discomfort,Pantoprazole,2023-04-19
+2545,allergic rash itching,Cetirizine,2023-03-13
+2546,sinus infection pressure pain,Amoxicillin,2023-07-16
+2547,vomiting dehydration weakness,ORS,2023-03-20
+2548,respiratory infection cough,Azithromycin,2023-03-06
+2549,allergy sneezing itching,Cetirizine,2023-02-06
+2550,fever body pain,Paracetamol,2024-01-05
+2551,diabetes frequent urination,Metformin,2023-08-12
+2552,allergy sneezing itching,Cetirizine,2023-03-12
+2553,gastritis stomach pain,Pantoprazole,2024-04-02
+2554,flu fever headache,Dolo650,2023-11-16
+2555,allergic rash itching,Cetirizine,2023-09-18
+2556,acidic stomach discomfort,Pantoprazole,2024-02-24
+2557,type2 diabetes high sugar,Metformin,2023-07-01
+2558,bacterial infection throat pain,Amoxicillin,2023-08-06
+2559,high fever body pain,Dolo650,2023-10-23
+2560,diabetes frequent urination,Metformin,2023-05-02
+2561,cholesterol management,Atorvastatin,2023-07-30
+2562,lipid disorder treatment,Atorvastatin,2023-07-07
+2563,fever headache,Paracetamol,2023-10-18
+2564,diabetes frequent urination,Metformin,2023-07-08
+2565,injury swelling pain,Ibuprofen,2024-05-07
+2566,joint pain inflammation,Ibuprofen,2024-01-09
+2567,cholesterol management,Atorvastatin,2023-08-27
+2568,high cholesterol risk,Atorvastatin,2023-09-25
+2569,high fever body pain,Dolo650,2023-05-06
+2570,diabetes frequent urination,Metformin,2024-01-15
+2571,back pain muscle pain,Ibuprofen,2023-11-10
+2572,mild fever headache,Paracetamol,2023-10-01
+2573,cough fever headache,Paracetamol,2023-08-21
+2574,cholesterol management,Atorvastatin,2023-10-21
+2575,vomiting dehydration weakness,ORS,2023-06-30
+2576,severe throat infection,Azithromycin,2023-03-27
+2577,viral fever,Paracetamol,2024-01-19
+2578,respiratory infection cough,Azithromycin,2024-02-06
+2579,flu fever headache,Dolo650,2023-02-01
+2580,diabetes frequent urination,Metformin,2023-03-28
+2581,high fever body pain,Dolo650,2023-12-03
+2582,respiratory infection cough,Azithromycin,2023-11-16
+2583,mild fever headache,Paracetamol,2023-09-06
+2584,joint pain inflammation,Ibuprofen,2023-09-16
+2585,back pain muscle pain,Ibuprofen,2023-05-10
+2586,sneezing watery eyes,Cetirizine,2023-05-21
+2587,chest infection cough fever,Azithromycin,2024-01-15
+2588,joint pain inflammation,Ibuprofen,2024-04-10
+2589,viral fever body pain,Dolo650,2023-03-19
+2590,type2 diabetes high sugar,Metformin,2024-02-18
+2591,sneezing watery eyes,Cetirizine,2024-02-05
+2592,ear infection pain fever,Amoxicillin,2023-04-03
+2593,high cholesterol risk,Atorvastatin,2023-06-25
+2594,joint pain inflammation,Ibuprofen,2023-11-01
+2595,allergic rash itching,Cetirizine,2024-01-21
+2596,gastritis stomach pain,Pantoprazole,2023-05-02
+2597,diabetes frequent urination,Metformin,2023-11-23
+2598,runny nose allergy,Cetirizine,2023-10-23
+2599,dehydration diarrhea,ORS,2023-11-25
+2600,chest infection cough fever,Azithromycin,2023-01-27
+2601,allergic rash itching,Cetirizine,2023-07-24
+2602,type2 diabetes high sugar,Metformin,2023-09-01
+2603,high cholesterol risk,Atorvastatin,2023-07-14
+2604,gastritis stomach pain,Pantoprazole,2023-05-15
+2605,allergic rash itching,Cetirizine,2023-01-07
+2606,severe throat infection,Azithromycin,2023-07-15
+2607,loose motion dehydration,ORS,2023-12-16
+2608,fever headache,Paracetamol,2024-04-14
+2609,lipid disorder treatment,Atorvastatin,2023-07-01
+2610,acidic stomach discomfort,Pantoprazole,2024-04-15
+2611,severe throat infection,Azithromycin,2023-05-19
+2612,chest infection cough fever,Azithromycin,2023-05-11
+2613,flu fever headache,Dolo650,2023-08-25
+2614,sinus infection pressure pain,Amoxicillin,2023-12-11
+2615,high fever body pain,Dolo650,2023-09-24
+2616,loose motion dehydration,ORS,2023-12-20
+2617,sneezing watery eyes,Cetirizine,2023-10-08
+2618,fever headache,Paracetamol,2024-03-01
+2619,muscle pain swelling,Ibuprofen,2023-07-30
+2620,muscle pain swelling,Ibuprofen,2023-12-17
+2621,type2 diabetes high sugar,Metformin,2023-04-23
+2622,severe throat infection,Azithromycin,2023-04-09
+2623,fever headache,Paracetamol,2023-11-14
+2624,muscle pain swelling,Ibuprofen,2024-04-25
+2625,viral fever body pain,Dolo650,2024-04-02
+2626,sinus infection pressure pain,Amoxicillin,2023-11-23
+2627,muscle pain swelling,Ibuprofen,2023-02-14
+2628,high fever body pain,Dolo650,2023-07-12
+2629,high fever body pain,Dolo650,2024-04-03
+2630,joint pain inflammation,Ibuprofen,2023-05-10
+2631,severe throat infection,Azithromycin,2023-12-05
+2632,injury swelling pain,Ibuprofen,2024-04-17
+2633,severe throat infection,Azithromycin,2023-12-21
+2634,vomiting dehydration weakness,ORS,2023-03-24
+2635,back pain muscle pain,Ibuprofen,2024-02-02
+2636,cough fever headache,Paracetamol,2023-07-18
+2637,dehydration diarrhea,ORS,2023-05-13
+2638,chest infection cough fever,Azithromycin,2023-08-14
+2639,injury swelling pain,Ibuprofen,2024-04-20
+2640,sinus infection pressure pain,Amoxicillin,2023-07-21
+2641,allergic rash itching,Cetirizine,2023-02-25
+2642,allergic rash itching,Cetirizine,2023-04-22
+2643,viral fever body pain,Dolo650,2023-02-24
+2644,diabetes frequent urination,Metformin,2023-05-13
+2645,muscle pain swelling,Ibuprofen,2023-02-07
+2646,back pain muscle pain,Ibuprofen,2024-02-02
+2647,high blood sugar fatigue,Metformin,2024-04-04
+2648,high blood sugar fatigue,Metformin,2023-12-01
+2649,fever headache,Paracetamol,2023-12-07
+2650,gastritis stomach pain,Pantoprazole,2023-03-19
+2651,vomiting dehydration weakness,ORS,2023-10-22
+2652,viral fever,Paracetamol,2023-12-29
+2653,type2 diabetes high sugar,Metformin,2023-08-12
+2654,acidic stomach discomfort,Pantoprazole,2024-02-04
+2655,joint pain inflammation,Ibuprofen,2023-01-02
+2656,acidic stomach discomfort,Pantoprazole,2024-02-23
+2657,high blood sugar fatigue,Metformin,2023-10-18
+2658,cholesterol management,Atorvastatin,2023-06-20
+2659,severe throat infection,Azithromycin,2023-01-29
+2660,back pain muscle pain,Ibuprofen,2023-10-01
+2661,dehydration diarrhea,ORS,2024-03-06
+2662,type2 diabetes high sugar,Metformin,2023-11-28
+2663,bacterial infection throat pain,Amoxicillin,2023-10-11
+2664,cough fever headache,Paracetamol,2023-12-05
+2665,ear infection pain fever,Amoxicillin,2023-12-23
+2666,acid reflux stomach burn,Pantoprazole,2023-11-19
+2667,vomiting dehydration weakness,ORS,2023-02-13
+2668,diabetes frequent urination,Metformin,2023-04-08
+2669,allergy sneezing itching,Cetirizine,2023-04-09
+2670,viral fever,Paracetamol,2023-05-03
+2671,type2 diabetes high sugar,Metformin,2023-02-02
+2672,lipid disorder treatment,Atorvastatin,2023-06-07
+2673,diabetes frequent urination,Metformin,2024-05-09
+2674,high blood sugar fatigue,Metformin,2023-01-19
+2675,dehydration diarrhea,ORS,2023-06-22
+2676,cough fever headache,Paracetamol,2023-03-02
+2677,sinus infection pressure pain,Amoxicillin,2023-12-08
+2678,cholesterol management,Atorvastatin,2024-04-26
+2679,high cholesterol risk,Atorvastatin,2024-01-15
+2680,high fever body pain,Dolo650,2024-04-18
+2681,muscle pain swelling,Ibuprofen,2024-01-12
+2682,allergic rash itching,Cetirizine,2023-12-01
+2683,cough fever headache,Paracetamol,2024-04-09
+2684,high fever body pain,Dolo650,2023-05-05
+2685,allergy sneezing itching,Cetirizine,2023-03-30
+2686,mild fever headache,Paracetamol,2024-02-25
+2687,injury swelling pain,Ibuprofen,2023-11-09
+2688,allergy sneezing itching,Cetirizine,2024-02-23
+2689,muscle pain swelling,Ibuprofen,2023-09-12
+2690,viral fever body pain,Dolo650,2023-04-23
+2691,joint pain inflammation,Ibuprofen,2023-08-07
+2692,loose motion dehydration,ORS,2023-12-14
+2693,gastritis stomach pain,Pantoprazole,2023-03-03
+2694,viral fever body pain,Dolo650,2023-03-12
+2695,dehydration diarrhea,ORS,2024-01-27
+2696,viral fever,Paracetamol,2023-03-30
+2697,dehydration diarrhea,ORS,2023-03-03
+2698,chest infection cough fever,Azithromycin,2024-01-23
+2699,acid reflux stomach burn,Pantoprazole,2023-12-23
+2700,loose motion dehydration,ORS,2023-03-26
+2701,high blood sugar fatigue,Metformin,2024-04-18
+2702,high fever body pain,Dolo650,2023-03-10
+2703,injury swelling pain,Ibuprofen,2024-02-03
+2704,allergy sneezing itching,Cetirizine,2024-03-26
+2705,high blood sugar fatigue,Metformin,2023-01-04
+2706,fever body pain,Paracetamol,2024-04-19
+2707,back pain muscle pain,Ibuprofen,2023-08-02
+2708,diabetes frequent urination,Metformin,2023-03-06
+2709,bacterial infection throat pain,Amoxicillin,2023-11-24
+2710,respiratory infection cough,Azithromycin,2023-08-19
+2711,acid reflux stomach burn,Pantoprazole,2024-04-25
+2712,allergy sneezing itching,Cetirizine,2023-11-02
+2713,allergic rash itching,Cetirizine,2023-11-10
+2714,back pain muscle pain,Ibuprofen,2023-06-28
+2715,acid reflux stomach burn,Pantoprazole,2023-10-13
+2716,bacterial infection throat pain,Amoxicillin,2023-03-02
+2717,high cholesterol risk,Atorvastatin,2023-11-13
+2718,loose motion dehydration,ORS,2023-09-17
+2719,ear infection pain fever,Amoxicillin,2024-01-30
+2720,ear infection pain fever,Amoxicillin,2023-01-28
+2721,bacterial infection throat pain,Amoxicillin,2024-02-12
+2722,allergic rash itching,Cetirizine,2023-09-12
+2723,runny nose allergy,Cetirizine,2023-12-10
+2724,fever headache,Paracetamol,2023-11-27
+2725,vomiting dehydration weakness,ORS,2023-04-18
+2726,gastritis stomach pain,Pantoprazole,2023-06-21
+2727,flu fever headache,Dolo650,2023-01-23
+2728,muscle pain swelling,Ibuprofen,2024-04-18
+2729,high cholesterol risk,Atorvastatin,2023-03-22
+2730,cough fever headache,Paracetamol,2023-09-21
+2731,muscle pain swelling,Ibuprofen,2024-04-03
+2732,sinus infection pressure pain,Amoxicillin,2023-08-16
+2733,viral fever body pain,Dolo650,2023-06-16
+2734,acid reflux stomach burn,Pantoprazole,2024-01-18
+2735,dehydration diarrhea,ORS,2024-02-03
+2736,back pain muscle pain,Ibuprofen,2023-04-27
+2737,joint pain inflammation,Ibuprofen,2024-01-13
+2738,acid reflux stomach burn,Pantoprazole,2023-07-12
+2739,bacterial infection throat pain,Amoxicillin,2023-08-30
+2740,flu fever headache,Dolo650,2023-01-28
+2741,acid reflux stomach burn,Pantoprazole,2023-04-21
+2742,flu fever headache,Dolo650,2023-04-02
+2743,gastritis stomach pain,Pantoprazole,2023-03-11
+2744,diabetes frequent urination,Metformin,2023-04-10
+2745,vomiting dehydration weakness,ORS,2023-04-14
+2746,dehydration diarrhea,ORS,2023-01-17
+2747,high fever body pain,Dolo650,2023-05-24
+2748,allergy sneezing itching,Cetirizine,2024-03-12
+2749,type2 diabetes high sugar,Metformin,2023-08-03
+2750,sneezing watery eyes,Cetirizine,2023-04-23
+2751,respiratory infection cough,Azithromycin,2023-03-22
+2752,high fever body pain,Dolo650,2023-10-23
+2753,high cholesterol risk,Atorvastatin,2023-02-14
+2754,acidic stomach discomfort,Pantoprazole,2023-09-08
+2755,sinus infection pressure pain,Amoxicillin,2023-08-31
+2756,type2 diabetes high sugar,Metformin,2023-01-08
+2757,acidic stomach discomfort,Pantoprazole,2024-03-22
+2758,bacterial infection throat pain,Amoxicillin,2023-06-17
+2759,acidic stomach discomfort,Pantoprazole,2023-04-24
+2760,high fever body pain,Dolo650,2024-04-12
+2761,high fever body pain,Dolo650,2023-08-02
+2762,fever headache,Paracetamol,2023-08-29
+2763,high cholesterol risk,Atorvastatin,2023-08-06
+2764,cholesterol management,Atorvastatin,2023-09-03
+2765,injury swelling pain,Ibuprofen,2023-09-11
+2766,bacterial infection throat pain,Amoxicillin,2023-10-13
+2767,cough fever headache,Paracetamol,2024-05-01
+2768,bacterial infection throat pain,Amoxicillin,2023-07-03
+2769,chest infection cough fever,Azithromycin,2023-11-28
+2770,muscle pain swelling,Ibuprofen,2023-09-03
+2771,chest infection cough fever,Azithromycin,2023-12-27
+2772,diabetes frequent urination,Metformin,2024-01-18
+2773,high fever body pain,Dolo650,2024-05-14
+2774,type2 diabetes high sugar,Metformin,2024-01-31
+2775,allergic rash itching,Cetirizine,2023-04-05
+2776,loose motion dehydration,ORS,2023-08-26
+2777,fever headache,Paracetamol,2023-07-17
+2778,loose motion dehydration,ORS,2023-01-17
+2779,severe throat infection,Azithromycin,2024-01-21
+2780,respiratory infection cough,Azithromycin,2024-04-29
+2781,viral fever body pain,Dolo650,2023-10-22
+2782,sinus infection pressure pain,Amoxicillin,2023-02-11
+2783,flu fever headache,Dolo650,2024-01-12
+2784,viral fever,Paracetamol,2024-04-29
+2785,dehydration diarrhea,ORS,2023-02-26
+2786,gastritis stomach pain,Pantoprazole,2023-08-27
+2787,high fever body pain,Dolo650,2023-07-07
+2788,dehydration diarrhea,ORS,2023-11-28
+2789,lipid disorder treatment,Atorvastatin,2023-02-04
+2790,lipid disorder treatment,Atorvastatin,2024-02-01
+2791,bacterial infection throat pain,Amoxicillin,2023-06-21
+2792,sinus infection pressure pain,Amoxicillin,2023-02-28
+2793,diabetes frequent urination,Metformin,2024-04-25
+2794,viral fever body pain,Dolo650,2023-04-18
+2795,ear infection pain fever,Amoxicillin,2023-06-30
+2796,respiratory infection cough,Azithromycin,2023-12-15
+2797,gastritis stomach pain,Pantoprazole,2023-01-28
+2798,back pain muscle pain,Ibuprofen,2023-06-26
+2799,type2 diabetes high sugar,Metformin,2023-09-14
+2800,high cholesterol risk,Atorvastatin,2023-08-29
+2801,lipid disorder treatment,Atorvastatin,2024-02-27
+2802,cholesterol management,Atorvastatin,2023-08-20
+2803,flu fever headache,Dolo650,2024-02-14
+2804,joint pain inflammation,Ibuprofen,2024-04-01
+2805,high blood sugar fatigue,Metformin,2023-02-11
+2806,acid reflux stomach burn,Pantoprazole,2023-05-28
+2807,muscle pain swelling,Ibuprofen,2023-03-26
+2808,chest infection cough fever,Azithromycin,2023-12-23
+2809,allergic rash itching,Cetirizine,2023-03-19
+2810,sinus infection pressure pain,Amoxicillin,2024-05-02
+2811,mild fever headache,Paracetamol,2023-08-02
+2812,high cholesterol risk,Atorvastatin,2023-08-31
+2813,vomiting dehydration weakness,ORS,2023-08-16
+2814,mild fever headache,Paracetamol,2023-04-07
+2815,muscle pain swelling,Ibuprofen,2024-03-22
+2816,sinus infection pressure pain,Amoxicillin,2023-11-27
+2817,vomiting dehydration weakness,ORS,2023-10-24
+2818,loose motion dehydration,ORS,2023-11-27
+2819,vomiting dehydration weakness,ORS,2023-10-31
+2820,lipid disorder treatment,Atorvastatin,2023-08-16
+2821,type2 diabetes high sugar,Metformin,2023-10-18
+2822,sneezing watery eyes,Cetirizine,2023-03-29
+2823,chest infection cough fever,Azithromycin,2023-09-05
+2824,vomiting dehydration weakness,ORS,2024-01-30
+2825,fever body pain,Paracetamol,2023-06-30
+2826,severe throat infection,Azithromycin,2024-05-04
+2827,runny nose allergy,Cetirizine,2023-12-31
+2828,cholesterol management,Atorvastatin,2023-04-04
+2829,runny nose allergy,Cetirizine,2023-03-24
+2830,bacterial infection throat pain,Amoxicillin,2023-01-22
+2831,loose motion dehydration,ORS,2023-03-06
+2832,type2 diabetes high sugar,Metformin,2023-07-09
+2833,runny nose allergy,Cetirizine,2023-10-15
+2834,mild fever headache,Paracetamol,2024-05-15
+2835,dehydration diarrhea,ORS,2023-07-10
+2836,diabetes frequent urination,Metformin,2024-05-14
+2837,sneezing watery eyes,Cetirizine,2023-03-04
+2838,cough fever headache,Paracetamol,2024-04-21
+2839,high blood sugar fatigue,Metformin,2024-04-30
+2840,type2 diabetes high sugar,Metformin,2023-03-21
+2841,viral fever,Paracetamol,2024-05-14
+2842,cholesterol management,Atorvastatin,2023-11-28
+2843,severe throat infection,Azithromycin,2024-04-03
+2844,respiratory infection cough,Azithromycin,2023-12-08
+2845,allergic rash itching,Cetirizine,2023-06-23
+2846,injury swelling pain,Ibuprofen,2024-04-05
+2847,fever body pain,Paracetamol,2023-12-14
+2848,high cholesterol risk,Atorvastatin,2023-06-07
+2849,cough fever headache,Paracetamol,2023-11-13
+2850,ear infection pain fever,Amoxicillin,2023-07-02
+2851,back pain muscle pain,Ibuprofen,2023-01-29
+2852,viral fever body pain,Dolo650,2023-04-10
+2853,viral fever body pain,Dolo650,2023-04-24
+2854,chest infection cough fever,Azithromycin,2023-01-12
+2855,injury swelling pain,Ibuprofen,2023-12-13
+2856,injury swelling pain,Ibuprofen,2023-04-10
+2857,type2 diabetes high sugar,Metformin,2023-11-05
+2858,viral fever body pain,Dolo650,2024-04-28
+2859,mild fever headache,Paracetamol,2023-07-23
+2860,allergic rash itching,Cetirizine,2023-07-09
+2861,gastritis stomach pain,Pantoprazole,2023-01-07
+2862,severe throat infection,Azithromycin,2023-06-29
+2863,severe throat infection,Azithromycin,2024-03-23
+2864,high cholesterol risk,Atorvastatin,2023-04-21
+2865,diabetes frequent urination,Metformin,2023-08-01
+2866,type2 diabetes high sugar,Metformin,2023-03-25
+2867,acidic stomach discomfort,Pantoprazole,2024-04-03
+2868,acid reflux stomach burn,Pantoprazole,2024-03-03
+2869,viral fever body pain,Dolo650,2023-02-14
+2870,runny nose allergy,Cetirizine,2023-06-05
+2871,diabetes frequent urination,Metformin,2023-06-21
+2872,injury swelling pain,Ibuprofen,2023-02-15
+2873,cough fever headache,Paracetamol,2023-11-24
+2874,severe throat infection,Azithromycin,2023-03-31
+2875,cholesterol management,Atorvastatin,2023-12-30
+2876,high fever body pain,Dolo650,2023-04-13
+2877,allergic rash itching,Cetirizine,2023-05-29
+2878,cholesterol management,Atorvastatin,2023-01-22
+2879,respiratory infection cough,Azithromycin,2023-06-05
+2880,diabetes frequent urination,Metformin,2024-01-14
+2881,high blood sugar fatigue,Metformin,2023-01-14
+2882,fever body pain,Paracetamol,2023-05-15
+2883,respiratory infection cough,Azithromycin,2024-03-03
+2884,high blood sugar fatigue,Metformin,2023-12-01
+2885,severe throat infection,Azithromycin,2023-04-02
+2886,diabetes frequent urination,Metformin,2023-11-27
+2887,bacterial infection throat pain,Amoxicillin,2023-03-03
+2888,severe throat infection,Azithromycin,2024-05-11
+2889,back pain muscle pain,Ibuprofen,2023-10-25
+2890,diabetes frequent urination,Metformin,2023-08-12
+2891,respiratory infection cough,Azithromycin,2023-12-18
+2892,diabetes frequent urination,Metformin,2024-02-23
+2893,back pain muscle pain,Ibuprofen,2023-09-20
+2894,high fever body pain,Dolo650,2024-03-08
+2895,chest infection cough fever,Azithromycin,2023-10-25
+2896,fever body pain,Paracetamol,2023-06-13
+2897,diabetes frequent urination,Metformin,2023-03-11
+2898,dehydration diarrhea,ORS,2023-01-28
+2899,severe throat infection,Azithromycin,2023-08-03
+2900,dehydration diarrhea,ORS,2023-05-29
+2901,respiratory infection cough,Azithromycin,2023-11-24
+2902,joint pain inflammation,Ibuprofen,2024-01-28
+2903,allergy sneezing itching,Cetirizine,2023-11-03
+2904,sneezing watery eyes,Cetirizine,2024-03-22
+2905,loose motion dehydration,ORS,2024-02-14
+2906,severe throat infection,Azithromycin,2023-12-17
+2907,dehydration diarrhea,ORS,2023-10-01
+2908,flu fever headache,Dolo650,2024-02-26
+2909,allergy sneezing itching,Cetirizine,2023-03-12
+2910,cholesterol management,Atorvastatin,2023-07-10
+2911,type2 diabetes high sugar,Metformin,2023-06-24
+2912,allergy sneezing itching,Cetirizine,2023-04-22
+2913,runny nose allergy,Cetirizine,2024-03-01
+2914,sinus infection pressure pain,Amoxicillin,2023-11-11
+2915,lipid disorder treatment,Atorvastatin,2023-12-31
+2916,lipid disorder treatment,Atorvastatin,2024-01-23
+2917,injury swelling pain,Ibuprofen,2023-08-24
+2918,muscle pain swelling,Ibuprofen,2024-02-24
+2919,allergy sneezing itching,Cetirizine,2023-09-03
+2920,vomiting dehydration weakness,ORS,2023-12-20
+2921,dehydration diarrhea,ORS,2024-02-23
+2922,diabetes frequent urination,Metformin,2023-09-25
+2923,dehydration diarrhea,ORS,2023-12-30
+2924,chest infection cough fever,Azithromycin,2024-01-17
+2925,joint pain inflammation,Ibuprofen,2023-03-07
+2926,runny nose allergy,Cetirizine,2023-06-07
+2927,runny nose allergy,Cetirizine,2023-03-08
+2928,injury swelling pain,Ibuprofen,2023-12-20
+2929,muscle pain swelling,Ibuprofen,2023-01-10
+2930,type2 diabetes high sugar,Metformin,2023-01-22
+2931,bacterial infection throat pain,Amoxicillin,2023-01-17
+2932,lipid disorder treatment,Atorvastatin,2023-01-31
+2933,high blood sugar fatigue,Metformin,2024-04-10
+2934,chest infection cough fever,Azithromycin,2023-02-03
+2935,respiratory infection cough,Azithromycin,2023-01-06
+2936,muscle pain swelling,Ibuprofen,2024-04-16
+2937,high fever body pain,Dolo650,2023-10-28
+2938,bacterial infection throat pain,Amoxicillin,2023-12-10
+2939,dehydration diarrhea,ORS,2023-02-16
+2940,sneezing watery eyes,Cetirizine,2024-04-30
+2941,flu fever headache,Dolo650,2023-06-30
+2942,runny nose allergy,Cetirizine,2023-09-16
+2943,high fever body pain,Dolo650,2023-02-20
+2944,high fever body pain,Dolo650,2023-09-28
+2945,sinus infection pressure pain,Amoxicillin,2023-04-09
+2946,chest infection cough fever,Azithromycin,2024-04-06
+2947,high cholesterol risk,Atorvastatin,2024-05-13
+2948,joint pain inflammation,Ibuprofen,2024-04-16
+2949,lipid disorder treatment,Atorvastatin,2023-09-01
+2950,loose motion dehydration,ORS,2023-10-29
+2951,allergic rash itching,Cetirizine,2023-12-11
+2952,joint pain inflammation,Ibuprofen,2024-03-03
+2953,vomiting dehydration weakness,ORS,2023-08-06
+2954,sinus infection pressure pain,Amoxicillin,2023-04-27
+2955,acid reflux stomach burn,Pantoprazole,2024-01-25
+2956,dehydration diarrhea,ORS,2023-08-27
+2957,joint pain inflammation,Ibuprofen,2023-09-11
+2958,loose motion dehydration,ORS,2023-05-28
+2959,lipid disorder treatment,Atorvastatin,2023-01-21
+2960,back pain muscle pain,Ibuprofen,2023-09-10
+2961,injury swelling pain,Ibuprofen,2023-05-26
+2962,diabetes frequent urination,Metformin,2024-01-12
+2963,respiratory infection cough,Azithromycin,2024-05-14
+2964,high blood sugar fatigue,Metformin,2023-10-11
+2965,gastritis stomach pain,Pantoprazole,2024-03-13
+2966,acid reflux stomach burn,Pantoprazole,2024-03-14
+2967,injury swelling pain,Ibuprofen,2024-04-25
+2968,dehydration diarrhea,ORS,2023-01-07
+2969,diabetes frequent urination,Metformin,2023-02-23
+2970,gastritis stomach pain,Pantoprazole,2023-09-25
+2971,muscle pain swelling,Ibuprofen,2023-03-15
+2972,gastritis stomach pain,Pantoprazole,2023-12-22
+2973,high fever body pain,Dolo650,2024-01-15
+2974,allergy sneezing itching,Cetirizine,2023-07-06
+2975,ear infection pain fever,Amoxicillin,2023-04-13
+2976,flu fever headache,Dolo650,2023-03-04
+2977,ear infection pain fever,Amoxicillin,2024-01-07
+2978,type2 diabetes high sugar,Metformin,2024-01-27
+2979,viral fever body pain,Dolo650,2023-05-20
+2980,gastritis stomach pain,Pantoprazole,2023-09-01
+2981,flu fever headache,Dolo650,2023-09-06
+2982,cholesterol management,Atorvastatin,2023-03-17
+2983,high blood sugar fatigue,Metformin,2023-03-04
+2984,severe throat infection,Azithromycin,2023-09-12
+2985,sinus infection pressure pain,Amoxicillin,2024-04-27
+2986,allergy sneezing itching,Cetirizine,2023-02-20
+2987,fever headache,Paracetamol,2023-09-13
+2988,fever body pain,Paracetamol,2023-07-15
+2989,viral fever body pain,Dolo650,2023-06-17
+2990,sneezing watery eyes,Cetirizine,2023-11-15
+2991,high fever body pain,Dolo650,2024-01-25
+2992,injury swelling pain,Ibuprofen,2024-02-10
+2993,high blood sugar fatigue,Metformin,2023-05-31
+2994,type2 diabetes high sugar,Metformin,2023-09-16
+2995,respiratory infection cough,Azithromycin,2023-06-25
+2996,lipid disorder treatment,Atorvastatin,2023-01-10
+2997,cough fever headache,Paracetamol,2024-03-26
+2998,injury swelling pain,Ibuprofen,2023-08-19
+2999,vomiting dehydration weakness,ORS,2023-08-15
+3000,high blood sugar fatigue,Metformin,2023-01-17
